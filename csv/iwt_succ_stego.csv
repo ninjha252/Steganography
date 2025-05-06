@@ -1,0 +1,898 @@
+original_path,stego_path,method,secret_message
+initial/iwt_1.jpg,stego_iwt/iwt_1.jpg,iwt,[AV] This is my burden to bear.
+initial/iwt_3.jpg,stego_iwt/iwt_3.jpg,iwt,[AV] I choose to run toward my problems.
+initial/iwt_4.jpg,stego_iwt/iwt_4.jpg,iwt,[AV] I’m not looking for forgiveness.
+initial/iwt_5.jpg,stego_iwt/iwt_5.jpg,iwt,[LOTR] Don’t adventures ever have an end?
+initial/iwt_6.jpg,stego_iwt/iwt_6.jpg,iwt,"[SW] Great shot, kid! That was one in a million!"
+initial/iwt_7.jpg,stego_iwt/iwt_7.jpg,iwt,[SR] The roof of the license-plate factory.
+initial/iwt_8.jpg,stego_iwt/iwt_8.jpg,iwt,[AV] Is this your king?
+initial/iwt_9.jpg,stego_iwt/iwt_9.jpg,iwt,"[HP] Have a biscuit, Potter."
+initial/iwt_10.jpg,stego_iwt/iwt_10.jpg,iwt,[LOTR] This is no mere ranger.
+initial/iwt_11.jpg,stego_iwt/iwt_11.jpg,iwt,[LOTR] You need people of intelligence on this mission.
+initial/iwt_12.jpg,stego_iwt/iwt_12.jpg,iwt,"[AV] I could do this all day. Yeah, I know."
+initial/iwt_13.jpg,stego_iwt/iwt_13.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_14.jpg,stego_iwt/iwt_14.jpg,iwt,[AV] We are in the Endgame now.
+initial/iwt_15.jpg,stego_iwt/iwt_15.jpg,iwt,[HP] It’s our choices that show what we truly are.
+initial/iwt_16.jpg,stego_iwt/iwt_16.jpg,iwt,[HP] Every human life is worth the same.
+initial/iwt_17.jpg,stego_iwt/iwt_17.jpg,iwt,[AV] We’re in the endgame now.
+initial/iwt_18.jpg,stego_iwt/iwt_18.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_19.jpg,stego_iwt/iwt_19.jpg,iwt,"[SR] Bad luck, I guess. It floats around."
+initial/iwt_21.jpg,stego_iwt/iwt_21.jpg,iwt,[SR] I guess I just miss my friend.
+initial/iwt_22.jpg,stego_iwt/iwt_22.jpg,iwt,[AV] We create our own demons.
+initial/iwt_23.jpg,stego_iwt/iwt_23.jpg,iwt,[SW] I hate sand. It’s coarse and rough.
+initial/iwt_24.jpg,stego_iwt/iwt_24.jpg,iwt,[SW] Only a Sith deals in absolutes.
+initial/iwt_25.jpg,stego_iwt/iwt_25.jpg,iwt,"[SW] The greatest teacher, failure is."
+initial/iwt_27.jpg,stego_iwt/iwt_27.jpg,iwt,[SR] It broke my heart to see him like that.
+initial/iwt_28.jpg,stego_iwt/iwt_28.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_29.jpg,stego_iwt/iwt_29.jpg,iwt,"[SW] In my experience, there's no such thing as luck."
+initial/iwt_30.jpg,stego_iwt/iwt_30.jpg,iwt,[AV] You could not live with your own failure.
+initial/iwt_31.jpg,stego_iwt/iwt_31.jpg,iwt,[SW] He’s no good to me dead.
+initial/iwt_32.jpg,stego_iwt/iwt_32.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_33.jpg,stego_iwt/iwt_33.jpg,iwt,[AV] We create our own demons.
+initial/iwt_34.jpg,stego_iwt/iwt_34.jpg,iwt,[SW] Rebellions are built on hope.
+initial/iwt_35.jpg,stego_iwt/iwt_35.jpg,iwt,[SR] They can’t touch the music.
+initial/iwt_37.jpg,stego_iwt/iwt_37.jpg,iwt,[LOTR] Let him not vow to walk in the dark.
+initial/iwt_38.jpg,stego_iwt/iwt_38.jpg,iwt,"[SW] In my experience, there's no such thing as luck."
+initial/iwt_39.jpg,stego_iwt/iwt_39.jpg,iwt,[SR] You eat when we say you eat.
+initial/iwt_41.jpg,stego_iwt/iwt_41.jpg,iwt,[SR] Andy crawled to freedom.
+initial/iwt_42.jpg,stego_iwt/iwt_42.jpg,iwt,"[LOTR] I can't do this, Sam."
+initial/iwt_43.jpg,stego_iwt/iwt_43.jpg,iwt,[LOTR] My precious.
+initial/iwt_44.jpg,stego_iwt/iwt_44.jpg,iwt,"[LOTR] I’d cut off your head, Dwarf, if it stood but a little higher."
+initial/iwt_46.jpg,stego_iwt/iwt_46.jpg,iwt,[HP] It does not do to dwell on dreams.
+initial/iwt_47.jpg,stego_iwt/iwt_47.jpg,iwt,[LOTR] That’s what I meant: perilous.
+initial/iwt_48.jpg,stego_iwt/iwt_48.jpg,iwt,[LOTR] I’d rather be dead than see my kin bow to Sauron.
+initial/iwt_49.jpg,stego_iwt/iwt_49.jpg,iwt,[SW] And I... am all the Jedi!
+initial/iwt_50.jpg,stego_iwt/iwt_50.jpg,iwt,[LOTR] Even the smallest person can change the future.
+initial/iwt_51.jpg,stego_iwt/iwt_51.jpg,iwt,[LOTR] And my axe.
+initial/iwt_52.jpg,stego_iwt/iwt_52.jpg,iwt,[SR] That’s where I want to live the rest of my life.
+initial/iwt_53.jpg,stego_iwt/iwt_53.jpg,iwt,[LOTR] You have my sword.
+initial/iwt_54.jpg,stego_iwt/iwt_54.jpg,iwt,[AV] We’re in the endgame now.
+initial/iwt_55.jpg,stego_iwt/iwt_55.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_56.jpg,stego_iwt/iwt_56.jpg,iwt,[SW] I'm just a simple man making my way.
+initial/iwt_57.jpg,stego_iwt/iwt_57.jpg,iwt,[AV] Underoos!
+initial/iwt_58.jpg,stego_iwt/iwt_58.jpg,iwt,"[SW] Chewie, we’re home."
+initial/iwt_59.jpg,stego_iwt/iwt_59.jpg,iwt,"[HP] Don’t pity the dead, Harry. Pity the living."
+initial/iwt_60.jpg,stego_iwt/iwt_60.jpg,iwt,[SR] That’s the beauty of music.
+initial/iwt_61.jpg,stego_iwt/iwt_61.jpg,iwt,[LOTR] The Eye of the enemy is moving.
+initial/iwt_63.jpg,stego_iwt/iwt_63.jpg,iwt,[SR] How could you be so obtuse?
+initial/iwt_65.jpg,stego_iwt/iwt_65.jpg,iwt,[HP] Every human life is worth the same.
+initial/iwt_66.jpg,stego_iwt/iwt_66.jpg,iwt,[LOTR] And my bow.
+initial/iwt_67.jpg,stego_iwt/iwt_67.jpg,iwt,[LOTR] Gondor calls for aid!
+initial/iwt_68.jpg,stego_iwt/iwt_68.jpg,iwt,[SR] I guess I just miss my friend.
+initial/iwt_69.jpg,stego_iwt/iwt_69.jpg,iwt,[HP] Dobby is free.
+initial/iwt_70.jpg,stego_iwt/iwt_70.jpg,iwt,[SW] Confronting fear is a Jedi’s destiny.
+initial/iwt_71.jpg,stego_iwt/iwt_71.jpg,iwt,[SR] I hope I can make it across the border.
+initial/iwt_72.jpg,stego_iwt/iwt_72.jpg,iwt,[SR] Remember that hope is a good thing.
+initial/iwt_73.jpg,stego_iwt/iwt_73.jpg,iwt,[LOTR] The shadow does not hold sway yet.
+initial/iwt_74.jpg,stego_iwt/iwt_74.jpg,iwt,[LOTR] Deeds will not be less valiant because they are unpraised.
+initial/iwt_75.jpg,stego_iwt/iwt_75.jpg,iwt,[HP] Books! And cleverness!
+initial/iwt_76.jpg,stego_iwt/iwt_76.jpg,iwt,"[HP] Have a biscuit, Potter."
+initial/iwt_77.jpg,stego_iwt/iwt_77.jpg,iwt,[HP] Hearing voices no one else can hear isn’t a good sign.
+initial/iwt_79.jpg,stego_iwt/iwt_79.jpg,iwt,[HP] Let us not deprive Molly any longer of the chance to deplore.
+initial/iwt_80.jpg,stego_iwt/iwt_80.jpg,iwt,[SW] Never tell me the odds!
+initial/iwt_81.jpg,stego_iwt/iwt_81.jpg,iwt,"[SW] The greatest teacher, failure is."
+initial/iwt_84.jpg,stego_iwt/iwt_84.jpg,iwt,[SW] The Force is strong with this one.
+initial/iwt_85.jpg,stego_iwt/iwt_85.jpg,iwt,[LOTR] The world is changed. I feel it in the water.
+initial/iwt_86.jpg,stego_iwt/iwt_86.jpg,iwt,"[SW] I am a Jedi, like my father before me."
+initial/iwt_87.jpg,stego_iwt/iwt_87.jpg,iwt,[AV] Fine. I’ll do it myself.
+initial/iwt_88.jpg,stego_iwt/iwt_88.jpg,iwt,[SR] A man’s got to have something to keep him sane.
+initial/iwt_89.jpg,stego_iwt/iwt_89.jpg,iwt,"[AV] In my culture, death is not the end."
+initial/iwt_90.jpg,stego_iwt/iwt_90.jpg,iwt,[AV] I’m a huge fan of the way you lose control.
+initial/iwt_91.jpg,stego_iwt/iwt_91.jpg,iwt,[LOTR] Deeds will not be less valiant because they are unpraised.
+initial/iwt_92.jpg,stego_iwt/iwt_92.jpg,iwt,"[AV] If we can’t protect the Earth, we’ll avenge it."
+initial/iwt_93.jpg,stego_iwt/iwt_93.jpg,iwt,[SR] I hope I can make it across the border.
+initial/iwt_95.jpg,stego_iwt/iwt_95.jpg,iwt,"[HP] Working hard is important, but there is something that matters even more."
+initial/iwt_96.jpg,stego_iwt/iwt_96.jpg,iwt,"[SR] Bad luck, I guess. It floats around."
+initial/iwt_97.jpg,stego_iwt/iwt_97.jpg,iwt,"[HP] Ah, music. A magic beyond all we do here!"
+initial/iwt_98.jpg,stego_iwt/iwt_98.jpg,iwt,[LOTR] There's some good in this world.
+initial/iwt_99.jpg,stego_iwt/iwt_99.jpg,iwt,[HP] He will only be gone from the school when none here are loyal to him.
+initial/iwt_100.jpg,stego_iwt/iwt_100.jpg,iwt,[SW] I rebel.
+initial/iwt_101.jpg,stego_iwt/iwt_101.jpg,iwt,[SW] Your eyes can deceive you; don’t trust them.
+initial/iwt_102.jpg,stego_iwt/iwt_102.jpg,iwt,[SW] I rebel.
+initial/iwt_103.jpg,stego_iwt/iwt_103.jpg,iwt,[SW] There is another Skywalker.
+initial/iwt_104.jpg,stego_iwt/iwt_104.jpg,iwt,"[HP] Have a biscuit, Potter."
+initial/iwt_105.jpg,stego_iwt/iwt_105.jpg,iwt,[AV] You’re out of time.
+initial/iwt_106.jpg,stego_iwt/iwt_106.jpg,iwt,[AV] If you’re nothing without the suit...
+initial/iwt_108.jpg,stego_iwt/iwt_108.jpg,iwt,[AV] I’m just a kid from Brooklyn.
+initial/iwt_109.jpg,stego_iwt/iwt_109.jpg,iwt,[SR] There’s something inside that they can’t get to.
+initial/iwt_110.jpg,stego_iwt/iwt_110.jpg,iwt,[SR] Fear can hold you prisoner.
+initial/iwt_111.jpg,stego_iwt/iwt_111.jpg,iwt,"[SR] Lord, it’s a miracle!"
+initial/iwt_112.jpg,stego_iwt/iwt_112.jpg,iwt,[HP] I want to commit the murder I was imprisoned for.
+initial/iwt_113.jpg,stego_iwt/iwt_113.jpg,iwt,[SR] Remember that hope is a good thing.
+initial/iwt_114.jpg,stego_iwt/iwt_114.jpg,iwt,[SW] Never tell me the odds.
+initial/iwt_115.jpg,stego_iwt/iwt_115.jpg,iwt,[LOTR] That day is not this day.
+initial/iwt_116.jpg,stego_iwt/iwt_116.jpg,iwt,[LOTR] And my bow.
+initial/iwt_117.jpg,stego_iwt/iwt_117.jpg,iwt,[LOTR] You have my sword.
+initial/iwt_118.jpg,stego_iwt/iwt_118.jpg,iwt,[SR] That’s the one thing they can’t take away.
+initial/iwt_119.jpg,stego_iwt/iwt_119.jpg,iwt,[HP] Numbing the pain for a while will make it worse when you finally feel it.
+initial/iwt_120.jpg,stego_iwt/iwt_120.jpg,iwt,[SR] The Pacific Ocean has no memory.
+initial/iwt_121.jpg,stego_iwt/iwt_121.jpg,iwt,"[LOTR] We swears, to serve the master of the Precious."
+initial/iwt_122.jpg,stego_iwt/iwt_122.jpg,iwt,"[LOTR] The board is set, the pieces are moving."
+initial/iwt_123.jpg,stego_iwt/iwt_123.jpg,iwt,[SW] And I... am all the Jedi!
+initial/iwt_124.jpg,stego_iwt/iwt_124.jpg,iwt,[SR] It broke my heart to see him like that.
+initial/iwt_125.jpg,stego_iwt/iwt_125.jpg,iwt,"[LOTR] There will come a time, but it is not now."
+initial/iwt_126.jpg,stego_iwt/iwt_126.jpg,iwt,[HP] Dumbledore said people find it far easier to forgive others.
+initial/iwt_127.jpg,stego_iwt/iwt_127.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_128.jpg,stego_iwt/iwt_128.jpg,iwt,"[SR] He didn't do it, and I believe him."
+initial/iwt_129.jpg,stego_iwt/iwt_129.jpg,iwt,[LOTR] The treacherous are ever distrustful.
+initial/iwt_130.jpg,stego_iwt/iwt_130.jpg,iwt,[LOTR] One ring to rule them all.
+initial/iwt_131.jpg,stego_iwt/iwt_131.jpg,iwt,"[SR] Sometimes it makes me sad, though."
+initial/iwt_132.jpg,stego_iwt/iwt_132.jpg,iwt,"[HP] Yer a wizard, Harry."
+initial/iwt_133.jpg,stego_iwt/iwt_133.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_136.jpg,stego_iwt/iwt_136.jpg,iwt,[SW] Stay on target!
+initial/iwt_137.jpg,stego_iwt/iwt_137.jpg,iwt,[SW] These aren’t the droids you’re looking for.
+initial/iwt_138.jpg,stego_iwt/iwt_138.jpg,iwt,[LOTR] It’s the deep breath before the plunge.
+initial/iwt_139.jpg,stego_iwt/iwt_139.jpg,iwt,[SW] So be it... Jedi.
+initial/iwt_140.jpg,stego_iwt/iwt_140.jpg,iwt,[LOTR] The Eye of the enemy is moving.
+initial/iwt_141.jpg,stego_iwt/iwt_141.jpg,iwt,[SR] A man’s got to have something to keep him sane.
+initial/iwt_142.jpg,stego_iwt/iwt_142.jpg,iwt,[SR] I had Mr. Mozart to keep me company.
+initial/iwt_143.jpg,stego_iwt/iwt_143.jpg,iwt,"[SW] I’m just a simple man, trying to make my way."
+initial/iwt_144.jpg,stego_iwt/iwt_144.jpg,iwt,"[AV] I can’t control their fear, only mine."
+initial/iwt_145.jpg,stego_iwt/iwt_145.jpg,iwt,"[HP] Ah, music. A magic beyond all we do here!"
+initial/iwt_146.jpg,stego_iwt/iwt_146.jpg,iwt,"[LOTR] It’s not natural, none of it."
+initial/iwt_147.jpg,stego_iwt/iwt_147.jpg,iwt,"[HP] I’ll be in my bedroom, making no noise."
+initial/iwt_148.jpg,stego_iwt/iwt_148.jpg,iwt,[AV] I’m a huge fan of the way you lose control.
+initial/iwt_149.jpg,stego_iwt/iwt_149.jpg,iwt,"[SR] The library, pure as a soap opera."
+initial/iwt_150.jpg,stego_iwt/iwt_150.jpg,iwt,[AV] Wakanda forever!
+initial/iwt_151.jpg,stego_iwt/iwt_151.jpg,iwt,"[AV] That’s my secret, Cap: I’m always angry."
+initial/iwt_152.jpg,stego_iwt/iwt_152.jpg,iwt,[AV] No resurrections this time.
+initial/iwt_153.jpg,stego_iwt/iwt_153.jpg,iwt,[SW] I see through the lies of the Jedi.
+initial/iwt_154.jpg,stego_iwt/iwt_154.jpg,iwt,"[LOTR] There will come a time, but it is not now."
+initial/iwt_155.jpg,stego_iwt/iwt_155.jpg,iwt,[SR] The roof of the license-plate factory.
+initial/iwt_156.jpg,stego_iwt/iwt_156.jpg,iwt,[SW] I thought they smelled bad on the outside!
+initial/iwt_157.jpg,stego_iwt/iwt_157.jpg,iwt,"[SW] Judge me by my size, do you?"
+initial/iwt_159.jpg,stego_iwt/iwt_159.jpg,iwt,[SR] I guess I just miss my friend.
+initial/iwt_160.jpg,stego_iwt/iwt_160.jpg,iwt,[SR] Geology is the study of pressure and time.
+initial/iwt_161.jpg,stego_iwt/iwt_161.jpg,iwt,[HP] After all this time? Always.
+initial/iwt_162.jpg,stego_iwt/iwt_162.jpg,iwt,"[LOTR] I can't do this, Sam."
+initial/iwt_163.jpg,stego_iwt/iwt_163.jpg,iwt,[HP] Dumbledore’s got style.
+initial/iwt_164.jpg,stego_iwt/iwt_164.jpg,iwt,[SW] I’m altering the deal. Pray I don’t alter it further.
+initial/iwt_165.jpg,stego_iwt/iwt_165.jpg,iwt,[SW] The ability to speak does not make you intelligent.
+initial/iwt_166.jpg,stego_iwt/iwt_166.jpg,iwt,[LOTR] Don’t adventures ever have an end?
+initial/iwt_168.jpg,stego_iwt/iwt_168.jpg,iwt,[AV] We’re the guardians of the galaxy.
+initial/iwt_169.jpg,stego_iwt/iwt_169.jpg,iwt,"[LOTR] I can't do this, Sam."
+initial/iwt_170.jpg,stego_iwt/iwt_170.jpg,iwt,[AV] We work with what we got.
+initial/iwt_171.jpg,stego_iwt/iwt_171.jpg,iwt,[SR] Hope is a dangerous thing. Drive a man insane.
+initial/iwt_172.jpg,stego_iwt/iwt_172.jpg,iwt,"[SR] He didn't do it, and I believe him."
+initial/iwt_173.jpg,stego_iwt/iwt_173.jpg,iwt,"[AV] I can’t control their fear, only mine."
+initial/iwt_174.jpg,stego_iwt/iwt_174.jpg,iwt,[LOTR] I will not say do not weep.
+initial/iwt_175.jpg,stego_iwt/iwt_175.jpg,iwt,[SR] That’s the best part of me left in me.
+initial/iwt_176.jpg,stego_iwt/iwt_176.jpg,iwt,"[HP] Working hard is important, but there is something that matters even more."
+initial/iwt_177.jpg,stego_iwt/iwt_177.jpg,iwt,"[SR] Sometimes it makes me sad, though."
+initial/iwt_178.jpg,stego_iwt/iwt_178.jpg,iwt,[LOTR] This task was appointed to you.
+initial/iwt_179.jpg,stego_iwt/iwt_179.jpg,iwt,[LOTR] You shall not pass!
+initial/iwt_180.jpg,stego_iwt/iwt_180.jpg,iwt,[HP] Books! And cleverness!
+initial/iwt_181.jpg,stego_iwt/iwt_181.jpg,iwt,"[HP] You’re a wizard, Harry."
+initial/iwt_182.jpg,stego_iwt/iwt_182.jpg,iwt,[AV] You’re out of time.
+initial/iwt_183.jpg,stego_iwt/iwt_183.jpg,iwt,[HP] I’m going to bed before either of you come up with another idea.
+initial/iwt_184.jpg,stego_iwt/iwt_184.jpg,iwt,[LOTR] Fool of a Took!
+initial/iwt_185.jpg,stego_iwt/iwt_185.jpg,iwt,"[SR] Brooks was here, so was Red."
+initial/iwt_186.jpg,stego_iwt/iwt_186.jpg,iwt,[AV] A friend of mine once said...
+initial/iwt_187.jpg,stego_iwt/iwt_187.jpg,iwt,[SR] Forty years I been asking permission to pee.
+initial/iwt_188.jpg,stego_iwt/iwt_188.jpg,iwt,[SW] The Force is strong with this one.
+initial/iwt_190.jpg,stego_iwt/iwt_190.jpg,iwt,"[SR] The bars slam home, that’s when you know it’s for real."
+initial/iwt_191.jpg,stego_iwt/iwt_191.jpg,iwt,[SR] Salvation lies within.
+initial/iwt_194.jpg,stego_iwt/iwt_194.jpg,iwt,[SW] Women always figure out the truth.
+initial/iwt_195.jpg,stego_iwt/iwt_195.jpg,iwt,[AV] I love you 3000.
+initial/iwt_197.jpg,stego_iwt/iwt_197.jpg,iwt,[LOTR] There is no curse in Elvish for this treachery.
+initial/iwt_198.jpg,stego_iwt/iwt_198.jpg,iwt,[SW] The Force is strong with this one.
+initial/iwt_199.jpg,stego_iwt/iwt_199.jpg,iwt,[SW] No one’s ever really gone.
+initial/iwt_202.jpg,stego_iwt/iwt_202.jpg,iwt,[LOTR] The Eye of the enemy is moving.
+initial/iwt_203.jpg,stego_iwt/iwt_203.jpg,iwt,"[SR] Sometimes it makes me sad, though."
+initial/iwt_205.jpg,stego_iwt/iwt_205.jpg,iwt,"[AV] I’m Mary Poppins, y’all!"
+initial/iwt_206.jpg,stego_iwt/iwt_206.jpg,iwt,[HP] You’ll soon find out that some wizarding families are better than others.
+initial/iwt_207.jpg,stego_iwt/iwt_207.jpg,iwt,[SR] I'd like to think the last thing that went through his head.
+initial/iwt_208.jpg,stego_iwt/iwt_208.jpg,iwt,[SR] I'd hate to deprive you of this.
+initial/iwt_209.jpg,stego_iwt/iwt_209.jpg,iwt,[HP] The Chamber of Secrets has been opened.
+initial/iwt_210.jpg,stego_iwt/iwt_210.jpg,iwt,"[HP] Don’t pity the dead, Harry. Pity the living."
+initial/iwt_213.jpg,stego_iwt/iwt_213.jpg,iwt,"[SR] Lord, it’s a miracle!"
+initial/iwt_214.jpg,stego_iwt/iwt_214.jpg,iwt,[SW] So be it... Jedi.
+initial/iwt_215.jpg,stego_iwt/iwt_215.jpg,iwt,[LOTR] Even the very wise cannot see all ends.
+initial/iwt_216.jpg,stego_iwt/iwt_216.jpg,iwt,[AV] Fine. I’ll do it myself.
+initial/iwt_217.jpg,stego_iwt/iwt_217.jpg,iwt,"[HP] Yer a wizard, Harry. (Yes, again!)"
+initial/iwt_218.jpg,stego_iwt/iwt_218.jpg,iwt,[SW] I see through the lies of the Jedi.
+initial/iwt_219.jpg,stego_iwt/iwt_219.jpg,iwt,[LOTR] The shadow does not hold sway yet.
+initial/iwt_220.jpg,stego_iwt/iwt_220.jpg,iwt,[LOTR] The Eye of the enemy is moving.
+initial/iwt_221.jpg,stego_iwt/iwt_221.jpg,iwt,[AV] Is that the best you can do?
+initial/iwt_222.jpg,stego_iwt/iwt_222.jpg,iwt,[SW] I thought they smelled bad on the outside!
+initial/iwt_223.jpg,stego_iwt/iwt_223.jpg,iwt,"[SW] When 900 years old you reach, look as good you will not."
+initial/iwt_224.jpg,stego_iwt/iwt_224.jpg,iwt,[SR] Hope can set you free.
+initial/iwt_225.jpg,stego_iwt/iwt_225.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_226.jpg,stego_iwt/iwt_226.jpg,iwt,"[SR] He didn't do it, and I believe him."
+initial/iwt_227.jpg,stego_iwt/iwt_227.jpg,iwt,[SR] Some birds aren’t meant to be caged.
+initial/iwt_228.jpg,stego_iwt/iwt_228.jpg,iwt,[SW] No. That’s not true. That’s impossible!
+initial/iwt_229.jpg,stego_iwt/iwt_229.jpg,iwt,[LOTR] The age of men is over. The time of the Orc has come.
+initial/iwt_230.jpg,stego_iwt/iwt_230.jpg,iwt,[SR] How about we get her some rocks?
+initial/iwt_231.jpg,stego_iwt/iwt_231.jpg,iwt,"[SW] Great shot, kid! That was one in a million!"
+initial/iwt_232.jpg,stego_iwt/iwt_232.jpg,iwt,[SW] I have spoken.
+initial/iwt_234.jpg,stego_iwt/iwt_234.jpg,iwt,"[SW] I am a Jedi, like my father before me."
+initial/iwt_235.jpg,stego_iwt/iwt_235.jpg,iwt,[SR] I'd hate to deprive you of this.
+initial/iwt_238.jpg,stego_iwt/iwt_238.jpg,iwt,"[HP] If you have to ask, you’ll never know."
+initial/iwt_240.jpg,stego_iwt/iwt_240.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_241.jpg,stego_iwt/iwt_241.jpg,iwt,[LOTR] Kings made tombs more splendid than houses of the living.
+initial/iwt_242.jpg,stego_iwt/iwt_242.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_243.jpg,stego_iwt/iwt_243.jpg,iwt,[SW] Aren’t you a little short for a stormtrooper?
+initial/iwt_245.jpg,stego_iwt/iwt_245.jpg,iwt,[HP] The Chamber of Secrets has been opened.
+initial/iwt_246.jpg,stego_iwt/iwt_246.jpg,iwt,[HP] I can teach you how to bottle fame.
+initial/iwt_247.jpg,stego_iwt/iwt_247.jpg,iwt,[LOTR] You shall not pass!
+initial/iwt_248.jpg,stego_iwt/iwt_248.jpg,iwt,[SW] Stay on target!
+initial/iwt_249.jpg,stego_iwt/iwt_249.jpg,iwt,"[AV] If we can’t protect the Earth, we’ll avenge it."
+initial/iwt_250.jpg,stego_iwt/iwt_250.jpg,iwt,[SR] You eat when we say you eat.
+initial/iwt_251.jpg,stego_iwt/iwt_251.jpg,iwt,[SR] I'd hate to deprive you of this.
+initial/iwt_252.jpg,stego_iwt/iwt_252.jpg,iwt,"[SW] When 900 years old you reach, look as good you will not."
+initial/iwt_255.jpg,stego_iwt/iwt_255.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_256.jpg,stego_iwt/iwt_256.jpg,iwt,[HP] The Chamber of Secrets has been opened.
+initial/iwt_257.jpg,stego_iwt/iwt_257.jpg,iwt,[LOTR] A wizard is never late.
+initial/iwt_258.jpg,stego_iwt/iwt_258.jpg,iwt,"[SW] When 900 years old you reach, look as good you will not."
+initial/iwt_259.jpg,stego_iwt/iwt_259.jpg,iwt,"[HP] If you’re holding out for universal popularity, you’ll be in this cabin a long time."
+initial/iwt_260.jpg,stego_iwt/iwt_260.jpg,iwt,"[SR] Let me tell you something, my friend: hope is dangerous."
+initial/iwt_261.jpg,stego_iwt/iwt_261.jpg,iwt,[AV] I’m loyal to nothing except the dream.
+initial/iwt_262.jpg,stego_iwt/iwt_262.jpg,iwt,"[AV] If you die, I feel like that’s on me."
+initial/iwt_264.jpg,stego_iwt/iwt_264.jpg,iwt,[SW] Let the Wookiee win.
+initial/iwt_265.jpg,stego_iwt/iwt_265.jpg,iwt,[HP] Dark and difficult times lie ahead.
+initial/iwt_268.jpg,stego_iwt/iwt_268.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_269.jpg,stego_iwt/iwt_269.jpg,iwt,[AV] It’s not about how much we lost.
+initial/iwt_270.jpg,stego_iwt/iwt_270.jpg,iwt,[SR] Fear can hold you prisoner.
+initial/iwt_271.jpg,stego_iwt/iwt_271.jpg,iwt,[AV] I love you 3000.
+initial/iwt_272.jpg,stego_iwt/iwt_272.jpg,iwt,[SR] That’s where I want to live the rest of my life.
+initial/iwt_273.jpg,stego_iwt/iwt_273.jpg,iwt,"[SR] Terrible thing, to live in fear."
+initial/iwt_274.jpg,stego_iwt/iwt_274.jpg,iwt,"[SW] Judge me by my size, do you?"
+initial/iwt_275.jpg,stego_iwt/iwt_275.jpg,iwt,[AV] Victory should be effortless.
+initial/iwt_276.jpg,stego_iwt/iwt_276.jpg,iwt,[LOTR] There is no curse in Elvish for this treachery.
+initial/iwt_277.jpg,stego_iwt/iwt_277.jpg,iwt,"[HP] If you’re holding out for universal popularity, you’ll be in this cabin a long time."
+initial/iwt_278.jpg,stego_iwt/iwt_278.jpg,iwt,"[HP] Ah, music. A magic beyond all we do here!"
+initial/iwt_279.jpg,stego_iwt/iwt_279.jpg,iwt,"[HP] Don’t pity the dead, Harry. Pity the living."
+initial/iwt_280.jpg,stego_iwt/iwt_280.jpg,iwt,[LOTR] All we have to decide is what to do with the time given us.
+initial/iwt_281.jpg,stego_iwt/iwt_281.jpg,iwt,[HP] It does not do to dwell on dreams.
+initial/iwt_282.jpg,stego_iwt/iwt_282.jpg,iwt,[LOTR] I’m going on an adventure!
+initial/iwt_283.jpg,stego_iwt/iwt_283.jpg,iwt,[SR] I'd grow eyes in the back of my head if I were you.
+initial/iwt_284.jpg,stego_iwt/iwt_284.jpg,iwt,[SW] Experience outranks everything.
+initial/iwt_285.jpg,stego_iwt/iwt_285.jpg,iwt,[HP] Until the very end.
+initial/iwt_286.jpg,stego_iwt/iwt_286.jpg,iwt,[LOTR] Let this be the hour we draw swords together.
+initial/iwt_287.jpg,stego_iwt/iwt_287.jpg,iwt,[LOTR] A red sun rises. Blood has been spilled.
+initial/iwt_289.jpg,stego_iwt/iwt_289.jpg,iwt,"[HP] Working hard is important, but there is something that matters even more."
+initial/iwt_290.jpg,stego_iwt/iwt_290.jpg,iwt,"[LOTR] The Grey Pilgrim, that’s what they used to call me."
+initial/iwt_291.jpg,stego_iwt/iwt_291.jpg,iwt,"[AV] I can’t control their fear, only mine."
+initial/iwt_292.jpg,stego_iwt/iwt_292.jpg,iwt,[AV] I’m gonna need that guy’s arm.
+initial/iwt_293.jpg,stego_iwt/iwt_293.jpg,iwt,[SR] Hope can set you free.
+initial/iwt_294.jpg,stego_iwt/iwt_294.jpg,iwt,[LOTR] Not all those who wander are lost.
+initial/iwt_295.jpg,stego_iwt/iwt_295.jpg,iwt,[AV] That’s America’s ass.
+initial/iwt_297.jpg,stego_iwt/iwt_297.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_298.jpg,stego_iwt/iwt_298.jpg,iwt,[SR] Fear can hold you prisoner.
+initial/iwt_299.jpg,stego_iwt/iwt_299.jpg,iwt,[SW] Women always figure out the truth.
+initial/iwt_300.jpg,stego_iwt/iwt_300.jpg,iwt,"[HP] It matters not what someone is born, but what they grow to be."
+initial/iwt_301.jpg,stego_iwt/iwt_301.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_302.jpg,stego_iwt/iwt_302.jpg,iwt,"[SW] So this is how liberty dies, with thunderous applause."
+initial/iwt_303.jpg,stego_iwt/iwt_303.jpg,iwt,"[LOTR] Let him go, you filth!"
+initial/iwt_304.jpg,stego_iwt/iwt_304.jpg,iwt,"[SR] In prison, a man will do almost anything to keep his mind occupied."
+initial/iwt_305.jpg,stego_iwt/iwt_305.jpg,iwt,[HP] Let us not deprive Molly any longer of the chance to deplore.
+initial/iwt_306.jpg,stego_iwt/iwt_306.jpg,iwt,"[LOTR] The Grey Pilgrim, that’s what they used to call me."
+initial/iwt_307.jpg,stego_iwt/iwt_307.jpg,iwt,"[HP] It’s LeviOsa, not LevioSA!"
+initial/iwt_309.jpg,stego_iwt/iwt_309.jpg,iwt,[HP] But it takes even more to stand up to our friends.
+initial/iwt_310.jpg,stego_iwt/iwt_310.jpg,iwt,[SR] The Pacific Ocean has no memory.
+initial/iwt_311.jpg,stego_iwt/iwt_311.jpg,iwt,"[LOTR] Certainty of death, small chance of success."
+initial/iwt_312.jpg,stego_iwt/iwt_312.jpg,iwt,[HP] Curiosity is not a sin.
+initial/iwt_314.jpg,stego_iwt/iwt_314.jpg,iwt,"[AV] I can’t control their fear, only mine."
+initial/iwt_315.jpg,stego_iwt/iwt_315.jpg,iwt,"[SW] Chewie, we’re home."
+initial/iwt_316.jpg,stego_iwt/iwt_316.jpg,iwt,[HP] Don’t let the muggles get you down.
+initial/iwt_317.jpg,stego_iwt/iwt_317.jpg,iwt,[SR] Perhaps it's time you tried a new profession.
+initial/iwt_318.jpg,stego_iwt/iwt_318.jpg,iwt,[SW] The Force is strong with this one.
+initial/iwt_319.jpg,stego_iwt/iwt_319.jpg,iwt,[SW] I know what I have to do.
+initial/iwt_320.jpg,stego_iwt/iwt_320.jpg,iwt,[LOTR] Let this be the hour we draw swords together.
+initial/iwt_321.jpg,stego_iwt/iwt_321.jpg,iwt,[AV] I’m loyal to nothing except the dream.
+initial/iwt_322.jpg,stego_iwt/iwt_322.jpg,iwt,[HP] Greatness inspires envy.
+initial/iwt_323.jpg,stego_iwt/iwt_323.jpg,iwt,[SW] Aren’t you a little short for a stormtrooper?
+initial/iwt_324.jpg,stego_iwt/iwt_324.jpg,iwt,"[HP] Yer a wizard, Harry."
+initial/iwt_325.jpg,stego_iwt/iwt_325.jpg,iwt,[AV] There was an idea...
+initial/iwt_326.jpg,stego_iwt/iwt_326.jpg,iwt,[AV] Nothing goes over my head.
+initial/iwt_327.jpg,stego_iwt/iwt_327.jpg,iwt,[HP] Greatness inspires envy.
+initial/iwt_328.jpg,stego_iwt/iwt_328.jpg,iwt,[AV] That’s America’s ass.
+initial/iwt_329.jpg,stego_iwt/iwt_329.jpg,iwt,[AV] We work with what we got.
+initial/iwt_330.jpg,stego_iwt/iwt_330.jpg,iwt,[SW] No. That’s not true. That’s impossible!
+initial/iwt_331.jpg,stego_iwt/iwt_331.jpg,iwt,[HP] It’s not a question of can or can’t.
+initial/iwt_332.jpg,stego_iwt/iwt_332.jpg,iwt,[SR] Hope is a dangerous thing. Drive a man insane.
+initial/iwt_333.jpg,stego_iwt/iwt_333.jpg,iwt,[AV] Is this your king?
+initial/iwt_334.jpg,stego_iwt/iwt_334.jpg,iwt,"[LOTR] The board is set, the pieces are moving."
+initial/iwt_335.jpg,stego_iwt/iwt_335.jpg,iwt,[LOTR] One ring to rule them all.
+initial/iwt_336.jpg,stego_iwt/iwt_336.jpg,iwt,[LOTR] There is no life in the void.
+initial/iwt_337.jpg,stego_iwt/iwt_337.jpg,iwt,[LOTR] And my bow.
+initial/iwt_338.jpg,stego_iwt/iwt_338.jpg,iwt,[LOTR] The treacherous are ever distrustful.
+initial/iwt_339.jpg,stego_iwt/iwt_339.jpg,iwt,[HP] Happiness can be found even in the darkest of times.
+initial/iwt_340.jpg,stego_iwt/iwt_340.jpg,iwt,[AV] Gotta move on. We gotta move on.
+initial/iwt_341.jpg,stego_iwt/iwt_341.jpg,iwt,"[HP] Let us step into the night and pursue that flighty temptress, adventure."
+initial/iwt_342.jpg,stego_iwt/iwt_342.jpg,iwt,[HP] Always the tone of surprise.
+initial/iwt_343.jpg,stego_iwt/iwt_343.jpg,iwt,"[HP] Every time I try to help, people get hurt."
+initial/iwt_344.jpg,stego_iwt/iwt_344.jpg,iwt,[HP] Wands are only as powerful as the wizards who use them.
+initial/iwt_345.jpg,stego_iwt/iwt_345.jpg,iwt,"[AV] I’m Mary Poppins, y’all!"
+initial/iwt_346.jpg,stego_iwt/iwt_346.jpg,iwt,[SW] I'm just a simple man making my way.
+initial/iwt_347.jpg,stego_iwt/iwt_347.jpg,iwt,[SR] Remember that hope is a good thing.
+initial/iwt_348.jpg,stego_iwt/iwt_348.jpg,iwt,[SW] I have spoken.
+initial/iwt_349.jpg,stego_iwt/iwt_349.jpg,iwt,"[HP] Training for the ballet, Potter?"
+initial/iwt_350.jpg,stego_iwt/iwt_350.jpg,iwt,[HP] Until the very end.
+initial/iwt_352.jpg,stego_iwt/iwt_352.jpg,iwt,[HP] We must all face the choice between what is right and what is easy.
+initial/iwt_353.jpg,stego_iwt/iwt_353.jpg,iwt,[HP] After all this time? Always.
+initial/iwt_354.jpg,stego_iwt/iwt_354.jpg,iwt,[LOTR] You shall not pass!
+initial/iwt_355.jpg,stego_iwt/iwt_355.jpg,iwt,[AV] Puny god.
+initial/iwt_356.jpg,stego_iwt/iwt_356.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_357.jpg,stego_iwt/iwt_357.jpg,iwt,[AV] I don’t want to go.
+initial/iwt_358.jpg,stego_iwt/iwt_358.jpg,iwt,[SW] I love you. I know.
+initial/iwt_359.jpg,stego_iwt/iwt_359.jpg,iwt,[HP] Just because you have the emotional range of a teaspoon.
+initial/iwt_360.jpg,stego_iwt/iwt_360.jpg,iwt,[LOTR] A steward's only duty is to his people.
+initial/iwt_361.jpg,stego_iwt/iwt_361.jpg,iwt,[HP] Time is making fools of us again.
+initial/iwt_362.jpg,stego_iwt/iwt_362.jpg,iwt,[SW] Let the Wookiee win.
+initial/iwt_363.jpg,stego_iwt/iwt_363.jpg,iwt,[SW] Never tell me the odds.
+initial/iwt_364.jpg,stego_iwt/iwt_364.jpg,iwt,"[SR] Some places are like that, though: big old bones."
+initial/iwt_365.jpg,stego_iwt/iwt_365.jpg,iwt,"[HP] Ah, music. A magic beyond all we do here!"
+initial/iwt_367.jpg,stego_iwt/iwt_367.jpg,iwt,[LOTR] And my bow.
+initial/iwt_368.jpg,stego_iwt/iwt_368.jpg,iwt,[AV] You could not live with your own failure.
+initial/iwt_369.jpg,stego_iwt/iwt_369.jpg,iwt,"[HP] I’ll be in my bedroom, making no noise."
+initial/iwt_370.jpg,stego_iwt/iwt_370.jpg,iwt,[AV] We’re in the endgame now.
+initial/iwt_371.jpg,stego_iwt/iwt_371.jpg,iwt,[SW] I have spoken.
+initial/iwt_372.jpg,stego_iwt/iwt_372.jpg,iwt,"[HP] Working hard is important, but there is something that matters even more."
+initial/iwt_373.jpg,stego_iwt/iwt_373.jpg,iwt,[SR] The roof of the license-plate factory.
+initial/iwt_374.jpg,stego_iwt/iwt_374.jpg,iwt,[SR] I hope I can make it across the border.
+initial/iwt_375.jpg,stego_iwt/iwt_375.jpg,iwt,[SR] I had to come to prison to be a crook.
+initial/iwt_376.jpg,stego_iwt/iwt_376.jpg,iwt,[AV] Is that the best you can do?
+initial/iwt_377.jpg,stego_iwt/iwt_377.jpg,iwt,"[AV] I could do this all day. Yeah, I know."
+initial/iwt_378.jpg,stego_iwt/iwt_378.jpg,iwt,[LOTR] There is no life in the void.
+initial/iwt_380.jpg,stego_iwt/iwt_380.jpg,iwt,[AV] He’s a friend from work!
+initial/iwt_381.jpg,stego_iwt/iwt_381.jpg,iwt,[AV] We have a Hulk.
+initial/iwt_383.jpg,stego_iwt/iwt_383.jpg,iwt,[HP] Hearing voices no one else can hear isn’t a good sign.
+initial/iwt_384.jpg,stego_iwt/iwt_384.jpg,iwt,[LOTR] I think I broke something.
+initial/iwt_385.jpg,stego_iwt/iwt_385.jpg,iwt,[SR] The world went and got itself in a big hurry.
+initial/iwt_386.jpg,stego_iwt/iwt_386.jpg,iwt,[LOTR] You have my sword.
+initial/iwt_387.jpg,stego_iwt/iwt_387.jpg,iwt,"[HP] Have a biscuit, Potter."
+initial/iwt_388.jpg,stego_iwt/iwt_388.jpg,iwt,[HP] I’ll join you when hell freezes over.
+initial/iwt_390.jpg,stego_iwt/iwt_390.jpg,iwt,[AV] Puny god.
+initial/iwt_391.jpg,stego_iwt/iwt_391.jpg,iwt,[SW] Hello there.
+initial/iwt_392.jpg,stego_iwt/iwt_392.jpg,iwt,[AV] I’ll do you one better: why is Gamora?
+initial/iwt_393.jpg,stego_iwt/iwt_393.jpg,iwt,[HP] Let us hope that Mr. Potter will always be around.
+initial/iwt_394.jpg,stego_iwt/iwt_394.jpg,iwt,"[LOTR] The Grey Pilgrim, that’s what they used to call me."
+initial/iwt_395.jpg,stego_iwt/iwt_395.jpg,iwt,[SW] Somebody has to save our skins.
+initial/iwt_396.jpg,stego_iwt/iwt_396.jpg,iwt,[LOTR] Let this be the hour we draw swords together.
+initial/iwt_397.jpg,stego_iwt/iwt_397.jpg,iwt,[LOTR] You need people of intelligence on this mission.
+initial/iwt_398.jpg,stego_iwt/iwt_398.jpg,iwt,"[AV] I’m a god, you dull creature!"
+initial/iwt_399.jpg,stego_iwt/iwt_399.jpg,iwt,[AV] I’m not looking for forgiveness.
+initial/iwt_400.jpg,stego_iwt/iwt_400.jpg,iwt,[SW] I sense a trap.
+initial/iwt_402.jpg,stego_iwt/iwt_402.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_403.jpg,stego_iwt/iwt_403.jpg,iwt,[AV] You should have aimed for the head.
+initial/iwt_404.jpg,stego_iwt/iwt_404.jpg,iwt,"[SR] You better start making sense, kid."
+initial/iwt_405.jpg,stego_iwt/iwt_405.jpg,iwt,[SW] I hate sand. It’s coarse and rough.
+initial/iwt_406.jpg,stego_iwt/iwt_406.jpg,iwt,[AV] We’re in the endgame now.
+initial/iwt_407.jpg,stego_iwt/iwt_407.jpg,iwt,[SW] I hate sand. It’s coarse and rough.
+initial/iwt_408.jpg,stego_iwt/iwt_408.jpg,iwt,[LOTR] There is always hope.
+initial/iwt_409.jpg,stego_iwt/iwt_409.jpg,iwt,"[LOTR] There’s some good in this world, Mr. Frodo."
+initial/iwt_410.jpg,stego_iwt/iwt_410.jpg,iwt,[SW] I’m altering the deal. Pray I don’t alter it further.
+initial/iwt_411.jpg,stego_iwt/iwt_411.jpg,iwt,[HP] It does not do to dwell on dreams.
+initial/iwt_412.jpg,stego_iwt/iwt_412.jpg,iwt,[SR] I’m a convicted murderer who provides sound financial planning.
+initial/iwt_413.jpg,stego_iwt/iwt_413.jpg,iwt,[SW] This party’s over.
+initial/iwt_414.jpg,stego_iwt/iwt_414.jpg,iwt,[SR] You eat when we say you eat.
+initial/iwt_415.jpg,stego_iwt/iwt_415.jpg,iwt,[SR] I guess it comes down to a simple choice.
+initial/iwt_416.jpg,stego_iwt/iwt_416.jpg,iwt,[SW] The ability to speak does not make you intelligent.
+initial/iwt_417.jpg,stego_iwt/iwt_417.jpg,iwt,[SW] So be it... Jedi.
+initial/iwt_418.jpg,stego_iwt/iwt_418.jpg,iwt,[SW] I can bring you in warm or cold.
+initial/iwt_419.jpg,stego_iwt/iwt_419.jpg,iwt,"[LOTR] It’s not natural, none of it."
+initial/iwt_420.jpg,stego_iwt/iwt_420.jpg,iwt,"[HP] Training for the ballet, Potter?"
+initial/iwt_421.jpg,stego_iwt/iwt_421.jpg,iwt,[AV] You’re out of time.
+initial/iwt_422.jpg,stego_iwt/iwt_422.jpg,iwt,"[LOTR] There’s some good in this world, Mr. Frodo."
+initial/iwt_423.jpg,stego_iwt/iwt_423.jpg,iwt,[SW] I’m altering the deal. Pray I don’t alter it further.
+initial/iwt_424.jpg,stego_iwt/iwt_424.jpg,iwt,[SR] He strolled like a man in a park.
+initial/iwt_425.jpg,stego_iwt/iwt_425.jpg,iwt,[SR] That’s the one thing they can’t take away.
+initial/iwt_426.jpg,stego_iwt/iwt_426.jpg,iwt,[SW] Somebody has to save our skins.
+initial/iwt_427.jpg,stego_iwt/iwt_427.jpg,iwt,[SR] They’re just too bright.
+initial/iwt_428.jpg,stego_iwt/iwt_428.jpg,iwt,[SR] I have no idea to this day what those two Italian ladies were singing about.
+initial/iwt_429.jpg,stego_iwt/iwt_429.jpg,iwt,[LOTR] Let him not vow to walk in the dark.
+initial/iwt_430.jpg,stego_iwt/iwt_430.jpg,iwt,"[LOTR] The Grey Pilgrim, that’s what they used to call me."
+initial/iwt_431.jpg,stego_iwt/iwt_431.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_433.jpg,stego_iwt/iwt_433.jpg,iwt,[AV] Wakanda forever!
+initial/iwt_434.jpg,stego_iwt/iwt_434.jpg,iwt,[SR] Hope can set you free.
+initial/iwt_435.jpg,stego_iwt/iwt_435.jpg,iwt,"[HP] Ah, music. A magic beyond all we do here!"
+initial/iwt_436.jpg,stego_iwt/iwt_436.jpg,iwt,"[SR] You better start making sense, kid."
+initial/iwt_437.jpg,stego_iwt/iwt_437.jpg,iwt,[SW] A Jedi uses the Force for knowledge and defense.
+initial/iwt_438.jpg,stego_iwt/iwt_438.jpg,iwt,[AV] We have a Hulk.
+initial/iwt_439.jpg,stego_iwt/iwt_439.jpg,iwt,[SR] You eat when we say you eat.
+initial/iwt_441.jpg,stego_iwt/iwt_441.jpg,iwt,"[HP] We could all have been killed, or worse, expelled."
+initial/iwt_442.jpg,stego_iwt/iwt_442.jpg,iwt,[SR] They’re just too bright.
+initial/iwt_443.jpg,stego_iwt/iwt_443.jpg,iwt,[SW] Somebody has to save our skins.
+initial/iwt_444.jpg,stego_iwt/iwt_444.jpg,iwt,[AV] Nothing goes over my head.
+initial/iwt_445.jpg,stego_iwt/iwt_445.jpg,iwt,[LOTR] There is always hope.
+initial/iwt_446.jpg,stego_iwt/iwt_446.jpg,iwt,[AV] On your left.
+initial/iwt_447.jpg,stego_iwt/iwt_447.jpg,iwt,[AV] Part of the journey is the end.
+initial/iwt_448.jpg,stego_iwt/iwt_448.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_449.jpg,stego_iwt/iwt_449.jpg,iwt,[AV] I love you 3000.
+initial/iwt_451.jpg,stego_iwt/iwt_451.jpg,iwt,[SR] That’s the one thing they can’t take away.
+initial/iwt_452.jpg,stego_iwt/iwt_452.jpg,iwt,"[SR] Andy Dufresne, who crawled through a river of filth."
+initial/iwt_453.jpg,stego_iwt/iwt_453.jpg,iwt,[HP] We must all face the choice between what is right and what is easy.
+initial/iwt_454.jpg,stego_iwt/iwt_454.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_455.jpg,stego_iwt/iwt_455.jpg,iwt,[LOTR] This is no mere ranger.
+initial/iwt_456.jpg,stego_iwt/iwt_456.jpg,iwt,[SW] That’s not how the Force works!
+initial/iwt_457.jpg,stego_iwt/iwt_457.jpg,iwt,[SW] I'm just a simple man making my way.
+initial/iwt_458.jpg,stego_iwt/iwt_458.jpg,iwt,"[SR] Remember, Red, hope is a good thing."
+initial/iwt_459.jpg,stego_iwt/iwt_459.jpg,iwt,"[AV] I’m a god, you dull creature!"
+initial/iwt_460.jpg,stego_iwt/iwt_460.jpg,iwt,[LOTR] Your time will come. You will face the same Evil.
+initial/iwt_461.jpg,stego_iwt/iwt_461.jpg,iwt,[LOTR] If more of us valued food and cheer above hoarded gold...
+initial/iwt_462.jpg,stego_iwt/iwt_462.jpg,iwt,[AV] I prefer the weapon you only have to fire once.
+initial/iwt_463.jpg,stego_iwt/iwt_463.jpg,iwt,[AV] Victory should be effortless.
+initial/iwt_464.jpg,stego_iwt/iwt_464.jpg,iwt,[HP] Let us hope that Mr. Potter will always be around.
+initial/iwt_465.jpg,stego_iwt/iwt_465.jpg,iwt,[AV] Whatever it takes.
+initial/iwt_466.jpg,stego_iwt/iwt_466.jpg,iwt,[SW] Confronting fear is a Jedi’s destiny.
+initial/iwt_467.jpg,stego_iwt/iwt_467.jpg,iwt,"[SR] He fought the good fight, and the sisters never laid a finger on him again."
+initial/iwt_469.jpg,stego_iwt/iwt_469.jpg,iwt,[HP] But it takes even more to stand up to our friends.
+initial/iwt_470.jpg,stego_iwt/iwt_470.jpg,iwt,[HP] Just because you have the emotional range of a teaspoon.
+initial/iwt_471.jpg,stego_iwt/iwt_471.jpg,iwt,[AV] I can do this all day.
+initial/iwt_473.jpg,stego_iwt/iwt_473.jpg,iwt,[HP] Always the tone of surprise.
+initial/iwt_475.jpg,stego_iwt/iwt_475.jpg,iwt,[LOTR] There is always hope.
+initial/iwt_476.jpg,stego_iwt/iwt_476.jpg,iwt,"[LOTR] I can't carry it for you, but I can carry you!"
+initial/iwt_477.jpg,stego_iwt/iwt_477.jpg,iwt,[SR] The Pacific Ocean has no memory.
+initial/iwt_478.jpg,stego_iwt/iwt_478.jpg,iwt,[LOTR] It’s the deep breath before the plunge.
+initial/iwt_479.jpg,stego_iwt/iwt_479.jpg,iwt,"[SR] He fought the good fight, and the sisters never laid a finger on him again."
+initial/iwt_480.jpg,stego_iwt/iwt_480.jpg,iwt,"[HP] If you want to know what a man’s like, take a good look at how he treats his inferiors."
+initial/iwt_481.jpg,stego_iwt/iwt_481.jpg,iwt,[SR] Hope can drive a man insane.
+initial/iwt_482.jpg,stego_iwt/iwt_482.jpg,iwt,"[SW] So this is how liberty dies, with thunderous applause."
+initial/iwt_485.jpg,stego_iwt/iwt_485.jpg,iwt,[AV] I’m a huge fan of the way you lose control.
+initial/iwt_486.jpg,stego_iwt/iwt_486.jpg,iwt,"[LOTR] Certainty of death, small chance of success."
+initial/iwt_487.jpg,stego_iwt/iwt_487.jpg,iwt,[SR] The world went and got itself in a big hurry.
+initial/iwt_488.jpg,stego_iwt/iwt_488.jpg,iwt,"[SR] Same old stuff, different day."
+initial/iwt_489.jpg,stego_iwt/iwt_489.jpg,iwt,[AV] We work with what we got.
+initial/iwt_490.jpg,stego_iwt/iwt_490.jpg,iwt,[SW] Experience outranks everything.
+initial/iwt_491.jpg,stego_iwt/iwt_491.jpg,iwt,[LOTR] And my axe.
+initial/iwt_492.jpg,stego_iwt/iwt_492.jpg,iwt,[LOTR] One ring to rule them all.
+initial/iwt_493.jpg,stego_iwt/iwt_493.jpg,iwt,[AV] I’m not looking for forgiveness.
+initial/iwt_494.jpg,stego_iwt/iwt_494.jpg,iwt,[LOTR] You need people of intelligence on this mission.
+initial/iwt_495.jpg,stego_iwt/iwt_495.jpg,iwt,[LOTR] I’m going on an adventure!
+initial/iwt_496.jpg,stego_iwt/iwt_496.jpg,iwt,[SR] The world went and got itself in a big hurry.
+initial/iwt_497.jpg,stego_iwt/iwt_497.jpg,iwt,[SW] The Force will be with you. Always.
+initial/iwt_498.jpg,stego_iwt/iwt_498.jpg,iwt,[HP] Numbing the pain for a while will make it worse when you finally feel it.
+initial/iwt_499.jpg,stego_iwt/iwt_499.jpg,iwt,[SW] There's always a bigger fish.
+initial/iwt_500.jpg,stego_iwt/iwt_500.jpg,iwt,[SW] And I... am all the Jedi!
+initial/iwt_501.jpg,stego_iwt/iwt_501.jpg,iwt,[HP] Mischief managed!
+initial/iwt_502.jpg,stego_iwt/iwt_502.jpg,iwt,[HP] Always the tone of surprise.
+initial/iwt_504.jpg,stego_iwt/iwt_504.jpg,iwt,"[SR] The library, pure as a soap opera."
+initial/iwt_505.jpg,stego_iwt/iwt_505.jpg,iwt,[LOTR] You shall be the Fellowship of the Ring.
+initial/iwt_506.jpg,stego_iwt/iwt_506.jpg,iwt,[AV] I love you 3000.
+initial/iwt_507.jpg,stego_iwt/iwt_507.jpg,iwt,[SR] The roof of the license-plate factory.
+initial/iwt_508.jpg,stego_iwt/iwt_508.jpg,iwt,"[AV] That’s my secret, Cap: I’m always angry."
+initial/iwt_509.jpg,stego_iwt/iwt_509.jpg,iwt,[AV] Wakanda forever!
+initial/iwt_510.jpg,stego_iwt/iwt_510.jpg,iwt,"[LOTR] The board is set, the pieces are moving."
+initial/iwt_511.jpg,stego_iwt/iwt_511.jpg,iwt,[LOTR] A day may come when the courage of men fails.
+initial/iwt_512.jpg,stego_iwt/iwt_512.jpg,iwt,"[SR] They send you here for life, and that’s exactly what they take."
+initial/iwt_513.jpg,stego_iwt/iwt_513.jpg,iwt,[HP] Let us not deprive Molly any longer of the chance to deplore.
+initial/iwt_514.jpg,stego_iwt/iwt_514.jpg,iwt,"[HP] It matters not what someone is born, but what they grow to be."
+initial/iwt_515.jpg,stego_iwt/iwt_515.jpg,iwt,[SW] Stay on target!
+initial/iwt_516.jpg,stego_iwt/iwt_516.jpg,iwt,[LOTR] Not all those who wander are lost.
+initial/iwt_517.jpg,stego_iwt/iwt_517.jpg,iwt,[SR] Hope is a dangerous thing. Drive a man insane.
+initial/iwt_518.jpg,stego_iwt/iwt_518.jpg,iwt,[LOTR] Even the very wise cannot see all ends.
+initial/iwt_519.jpg,stego_iwt/iwt_519.jpg,iwt,"[AV] I could do this all day. Yeah, I know."
+initial/iwt_520.jpg,stego_iwt/iwt_520.jpg,iwt,[LOTR] There is no life in the void.
+initial/iwt_521.jpg,stego_iwt/iwt_521.jpg,iwt,[HP] Every human life is worth the same.
+initial/iwt_522.jpg,stego_iwt/iwt_522.jpg,iwt,[HP] Dark and difficult times lie ahead.
+initial/iwt_523.jpg,stego_iwt/iwt_523.jpg,iwt,[HP] Fear of a name increases fear of the thing itself.
+initial/iwt_524.jpg,stego_iwt/iwt_524.jpg,iwt,[LOTR] You have my sword.
+initial/iwt_525.jpg,stego_iwt/iwt_525.jpg,iwt,[SR] Forty years I been asking permission to pee.
+initial/iwt_526.jpg,stego_iwt/iwt_526.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_527.jpg,stego_iwt/iwt_527.jpg,iwt,[SR] Andy crawled to freedom.
+initial/iwt_528.jpg,stego_iwt/iwt_528.jpg,iwt,[AV] Victory should be effortless.
+initial/iwt_529.jpg,stego_iwt/iwt_529.jpg,iwt,[AV] I’m just a kid from Brooklyn.
+initial/iwt_530.jpg,stego_iwt/iwt_530.jpg,iwt,[SW] Never tell me the odds.
+initial/iwt_531.jpg,stego_iwt/iwt_531.jpg,iwt,[HP] The ones that love us never really leave us.
+initial/iwt_532.jpg,stego_iwt/iwt_532.jpg,iwt,[LOTR] The Ring has awoken. It’s heard its master’s call.
+initial/iwt_533.jpg,stego_iwt/iwt_533.jpg,iwt,[AV] Is this your king?
+initial/iwt_534.jpg,stego_iwt/iwt_534.jpg,iwt,[SW] This is the way.
+initial/iwt_535.jpg,stego_iwt/iwt_535.jpg,iwt,[LOTR] The Eye of the enemy is moving.
+initial/iwt_536.jpg,stego_iwt/iwt_536.jpg,iwt,[AV] I understood that reference.
+initial/iwt_537.jpg,stego_iwt/iwt_537.jpg,iwt,[AV] We create our own demons.
+initial/iwt_538.jpg,stego_iwt/iwt_538.jpg,iwt,[LOTR] The fires of Isengard will spread.
+initial/iwt_539.jpg,stego_iwt/iwt_539.jpg,iwt,"[SR] Some places are like that, though: big old bones."
+initial/iwt_540.jpg,stego_iwt/iwt_540.jpg,iwt,[SW] I'm just a simple man making my way.
+initial/iwt_541.jpg,stego_iwt/iwt_541.jpg,iwt,[AV] Part of the journey is the end.
+initial/iwt_542.jpg,stego_iwt/iwt_542.jpg,iwt,[AV] I understood that reference.
+initial/iwt_545.jpg,stego_iwt/iwt_545.jpg,iwt,[AV] I am Iron Man.
+initial/iwt_546.jpg,stego_iwt/iwt_546.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_547.jpg,stego_iwt/iwt_547.jpg,iwt,[HP] Every human life is worth the same.
+initial/iwt_548.jpg,stego_iwt/iwt_548.jpg,iwt,[AV] You’re not the guy to make the sacrifice play.
+initial/iwt_549.jpg,stego_iwt/iwt_549.jpg,iwt,"[SR] Remember, Red, hope is a good thing."
+initial/iwt_550.jpg,stego_iwt/iwt_550.jpg,iwt,[SR] Remember that hope is a good thing.
+initial/iwt_551.jpg,stego_iwt/iwt_551.jpg,iwt,[LOTR] Don’t adventures ever have an end?
+initial/iwt_552.jpg,stego_iwt/iwt_552.jpg,iwt,[LOTR] All we have to decide is what to do with the time given us.
+initial/iwt_553.jpg,stego_iwt/iwt_553.jpg,iwt,[AV] I am Iron Man.
+initial/iwt_554.jpg,stego_iwt/iwt_554.jpg,iwt,[LOTR] I would rather share one lifetime with you.
+initial/iwt_555.jpg,stego_iwt/iwt_555.jpg,iwt,[HP] Wands are only as powerful as the wizards who use them.
+initial/iwt_556.jpg,stego_iwt/iwt_556.jpg,iwt,[AV] I’m with you till the end of the line.
+initial/iwt_557.jpg,stego_iwt/iwt_557.jpg,iwt,[SR] Perhaps it's time you tried a new profession.
+initial/iwt_558.jpg,stego_iwt/iwt_558.jpg,iwt,[AV] He’s a friend from work!
+initial/iwt_560.jpg,stego_iwt/iwt_560.jpg,iwt,[AV] I am inevitable.
+initial/iwt_561.jpg,stego_iwt/iwt_561.jpg,iwt,"[SW] Help me, Obi-Wan Kenobi. You're my only hope."
+initial/iwt_562.jpg,stego_iwt/iwt_562.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_564.jpg,stego_iwt/iwt_564.jpg,iwt,[SR] They can’t touch the music.
+initial/iwt_565.jpg,stego_iwt/iwt_565.jpg,iwt,"[LOTR] Let him go, you filth!"
+initial/iwt_566.jpg,stego_iwt/iwt_566.jpg,iwt,[AV] Bring me Thanos!
+initial/iwt_567.jpg,stego_iwt/iwt_567.jpg,iwt,[SR] Fear can hold you prisoner.
+initial/iwt_568.jpg,stego_iwt/iwt_568.jpg,iwt,[SR] I have no idea to this day what those two Italian ladies were singing about.
+initial/iwt_569.jpg,stego_iwt/iwt_569.jpg,iwt,[HP] I solemnly swear I am up to no good.
+initial/iwt_570.jpg,stego_iwt/iwt_570.jpg,iwt,[HP] We must all face the choice between what is right and what is easy.
+initial/iwt_571.jpg,stego_iwt/iwt_571.jpg,iwt,[SR] Maybe it’s because I’m Irish.
+initial/iwt_572.jpg,stego_iwt/iwt_572.jpg,iwt,"[SR] Bad luck, I guess. It floats around."
+initial/iwt_574.jpg,stego_iwt/iwt_574.jpg,iwt,"[HP] Every time I try to help, people get hurt."
+initial/iwt_576.jpg,stego_iwt/iwt_576.jpg,iwt,[SW] I’m altering the deal. Pray I don’t alter it further.
+initial/iwt_577.jpg,stego_iwt/iwt_577.jpg,iwt,[AV] It’s not a great plan.
+initial/iwt_578.jpg,stego_iwt/iwt_578.jpg,iwt,[SR] Salvation lies within.
+initial/iwt_579.jpg,stego_iwt/iwt_579.jpg,iwt,"[SW] Fear leads to anger, anger leads to hate."
+initial/iwt_580.jpg,stego_iwt/iwt_580.jpg,iwt,[SW] Only a Sith deals in absolutes.
+initial/iwt_581.jpg,stego_iwt/iwt_581.jpg,iwt,[AV] Gotta move on. We gotta move on.
+initial/iwt_582.jpg,stego_iwt/iwt_582.jpg,iwt,[SR] I had to come to prison to be a crook.
+initial/iwt_583.jpg,stego_iwt/iwt_583.jpg,iwt,"[SR] I find I'm so excited, I can barely sit still."
+initial/iwt_584.jpg,stego_iwt/iwt_584.jpg,iwt,[SW] No one’s ever really gone.
+initial/iwt_585.jpg,stego_iwt/iwt_585.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_586.jpg,stego_iwt/iwt_586.jpg,iwt,[SW] Your eyes can deceive you; don’t trust them.
+initial/iwt_587.jpg,stego_iwt/iwt_587.jpg,iwt,[SR] Hope can drive a man insane.
+initial/iwt_588.jpg,stego_iwt/iwt_588.jpg,iwt,[SW] He’s no good to me dead.
+initial/iwt_589.jpg,stego_iwt/iwt_589.jpg,iwt,[SW] A Jedi uses the Force for knowledge and defense.
+initial/iwt_590.jpg,stego_iwt/iwt_590.jpg,iwt,[HP] The Chamber of Secrets has been opened.
+initial/iwt_591.jpg,stego_iwt/iwt_591.jpg,iwt,[SR] We sat and drank with the sun on our shoulders.
+initial/iwt_592.jpg,stego_iwt/iwt_592.jpg,iwt,[SR] I’m a convicted murderer who provides sound financial planning.
+initial/iwt_593.jpg,stego_iwt/iwt_593.jpg,iwt,"[SR] Same old stuff, different day."
+initial/iwt_594.jpg,stego_iwt/iwt_594.jpg,iwt,[LOTR] A day may come when the courage of men fails.
+initial/iwt_595.jpg,stego_iwt/iwt_595.jpg,iwt,"[SR] Some places are like that, though: big old bones."
+initial/iwt_596.jpg,stego_iwt/iwt_596.jpg,iwt,[AV] If you’re nothing without the suit...
+initial/iwt_597.jpg,stego_iwt/iwt_597.jpg,iwt,[LOTR] Deeds will not be less valiant because they are unpraised.
+initial/iwt_598.jpg,stego_iwt/iwt_598.jpg,iwt,"[LOTR] If you want him, come and claim him!"
+initial/iwt_599.jpg,stego_iwt/iwt_599.jpg,iwt,[SR] Andy crawled to freedom.
+initial/iwt_600.jpg,stego_iwt/iwt_600.jpg,iwt,[SW] I sense a trap.
+initial/iwt_601.jpg,stego_iwt/iwt_601.jpg,iwt,[SR] I’m a convicted murderer who provides sound financial planning.
+initial/iwt_602.jpg,stego_iwt/iwt_602.jpg,iwt,[SW] The Force is not about lifting rocks.
+initial/iwt_603.jpg,stego_iwt/iwt_603.jpg,iwt,[LOTR] Your time will come. You will face the same Evil.
+initial/iwt_604.jpg,stego_iwt/iwt_604.jpg,iwt,"[SR] I killed her, Red."
+initial/iwt_605.jpg,stego_iwt/iwt_605.jpg,iwt,[AV] We are in the Endgame now.
+initial/iwt_606.jpg,stego_iwt/iwt_606.jpg,iwt,[AV] I am Iron Man.
+initial/iwt_607.jpg,stego_iwt/iwt_607.jpg,iwt,[SW] I can bring you in warm or cold.
+initial/iwt_608.jpg,stego_iwt/iwt_608.jpg,iwt,[SW] This is the way.
+initial/iwt_609.jpg,stego_iwt/iwt_609.jpg,iwt,[HP] Always the tone of surprise.
+initial/iwt_610.jpg,stego_iwt/iwt_610.jpg,iwt,[HP] The ones that love us never really leave us.
+initial/iwt_612.jpg,stego_iwt/iwt_612.jpg,iwt,"[LOTR] I can't do this, Sam."
+initial/iwt_613.jpg,stego_iwt/iwt_613.jpg,iwt,"[SR] Same old stuff, different day."
+initial/iwt_614.jpg,stego_iwt/iwt_614.jpg,iwt,[SW] Rebellions are built on hope.
+initial/iwt_615.jpg,stego_iwt/iwt_615.jpg,iwt,[SW] Never tell me the odds.
+initial/iwt_616.jpg,stego_iwt/iwt_616.jpg,iwt,[LOTR] The treacherous are ever distrustful.
+initial/iwt_617.jpg,stego_iwt/iwt_617.jpg,iwt,[HP] I solemnly swear that I am up to no good.
+initial/iwt_619.jpg,stego_iwt/iwt_619.jpg,iwt,[SW] And I... am all the Jedi!
+initial/iwt_620.jpg,stego_iwt/iwt_620.jpg,iwt,[SR] You eat when we say you eat.
+initial/iwt_622.jpg,stego_iwt/iwt_622.jpg,iwt,"[HP] Don’t pity the dead, Harry. Pity the living."
+initial/iwt_623.jpg,stego_iwt/iwt_623.jpg,iwt,"[SW] The greatest teacher, failure is."
+initial/iwt_624.jpg,stego_iwt/iwt_624.jpg,iwt,"[AV] Another happy landing. (Wrong franchise, sorry.)"
+initial/iwt_626.jpg,stego_iwt/iwt_626.jpg,iwt,[LOTR] The shadow does not hold sway yet.
+initial/iwt_627.jpg,stego_iwt/iwt_627.jpg,iwt,[SR] The world went and got itself in a big hurry.
+initial/iwt_628.jpg,stego_iwt/iwt_628.jpg,iwt,"[SR] You better start making sense, kid."
+initial/iwt_629.jpg,stego_iwt/iwt_629.jpg,iwt,[LOTR] Gondor calls for aid!
+initial/iwt_630.jpg,stego_iwt/iwt_630.jpg,iwt,"[AV] I’m made of rocks, as you can see."
+initial/iwt_631.jpg,stego_iwt/iwt_631.jpg,iwt,[LOTR] There is no curse in Elvish for this treachery.
+initial/iwt_632.jpg,stego_iwt/iwt_632.jpg,iwt,[SR] I hope I can make it across the border.
+initial/iwt_633.jpg,stego_iwt/iwt_633.jpg,iwt,[AV] I’m a huge fan of the way you lose control.
+initial/iwt_635.jpg,stego_iwt/iwt_635.jpg,iwt,[SR] How could you be so obtuse?
+initial/iwt_636.jpg,stego_iwt/iwt_636.jpg,iwt,[AV] I am burdened with glorious purpose.
+initial/iwt_637.jpg,stego_iwt/iwt_637.jpg,iwt,"[SR] I find I'm so excited, I can barely sit still."
+initial/iwt_638.jpg,stego_iwt/iwt_638.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_639.jpg,stego_iwt/iwt_639.jpg,iwt,[SR] I’m a convicted murderer who provides sound financial planning.
+initial/iwt_640.jpg,stego_iwt/iwt_640.jpg,iwt,"[AV] It’s an oversimplification of events, but yes."
+initial/iwt_641.jpg,stego_iwt/iwt_641.jpg,iwt,[SR] A man’s got to have something to keep him sane.
+initial/iwt_642.jpg,stego_iwt/iwt_642.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_643.jpg,stego_iwt/iwt_643.jpg,iwt,[SW] Aren’t you a little short for a stormtrooper?
+initial/iwt_644.jpg,stego_iwt/iwt_644.jpg,iwt,"[SW] Laugh it up, fuzzball!"
+initial/iwt_645.jpg,stego_iwt/iwt_645.jpg,iwt,"[AV] If we can’t protect the Earth, we’ll avenge it."
+initial/iwt_646.jpg,stego_iwt/iwt_646.jpg,iwt,[LOTR] And my bow.
+initial/iwt_647.jpg,stego_iwt/iwt_647.jpg,iwt,"[HP] You’re a wizard, Harry."
+initial/iwt_648.jpg,stego_iwt/iwt_648.jpg,iwt,[SR] Andy crawled to freedom.
+initial/iwt_649.jpg,stego_iwt/iwt_649.jpg,iwt,[LOTR] There is always hope.
+initial/iwt_650.jpg,stego_iwt/iwt_650.jpg,iwt,"[SW] Laugh it up, fuzzball!"
+initial/iwt_653.jpg,stego_iwt/iwt_653.jpg,iwt,[SW] Rebellions are built on hope.
+initial/iwt_654.jpg,stego_iwt/iwt_654.jpg,iwt,[SR] This is a tall drink of water named Andy Dufresne.
+initial/iwt_655.jpg,stego_iwt/iwt_655.jpg,iwt,[LOTR] A hunted man sometimes wearies of distrust and longs for friendship.
+initial/iwt_656.jpg,stego_iwt/iwt_656.jpg,iwt,[LOTR] A red sun rises. Blood has been spilled.
+initial/iwt_657.jpg,stego_iwt/iwt_657.jpg,iwt,"[AV] If you die, I feel like that’s on me."
+initial/iwt_658.jpg,stego_iwt/iwt_658.jpg,iwt,[SR] I'd hate to deprive you of this.
+initial/iwt_659.jpg,stego_iwt/iwt_659.jpg,iwt,[LOTR] And my axe.
+initial/iwt_660.jpg,stego_iwt/iwt_660.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_662.jpg,stego_iwt/iwt_662.jpg,iwt,[AV] I’m with you till the end of the line.
+initial/iwt_663.jpg,stego_iwt/iwt_663.jpg,iwt,[AV] She’s not alone.
+initial/iwt_664.jpg,stego_iwt/iwt_664.jpg,iwt,[AV] Wakanda forever!
+initial/iwt_665.jpg,stego_iwt/iwt_665.jpg,iwt,[LOTR] You need people of intelligence on this mission.
+initial/iwt_666.jpg,stego_iwt/iwt_666.jpg,iwt,[LOTR] Even the very wise cannot see all ends.
+initial/iwt_667.jpg,stego_iwt/iwt_667.jpg,iwt,[HP] It’s not a question of can or can’t.
+initial/iwt_668.jpg,stego_iwt/iwt_668.jpg,iwt,[SR] That’s the best part of me left in me.
+initial/iwt_669.jpg,stego_iwt/iwt_669.jpg,iwt,[AV] He’s a friend from work!
+initial/iwt_670.jpg,stego_iwt/iwt_670.jpg,iwt,"[AV] That’s my secret, Cap: I’m always angry."
+initial/iwt_671.jpg,stego_iwt/iwt_671.jpg,iwt,[SR] The Pacific Ocean has no memory.
+initial/iwt_672.jpg,stego_iwt/iwt_672.jpg,iwt,[SR] There's a harsh truth to face.
+initial/iwt_673.jpg,stego_iwt/iwt_673.jpg,iwt,"[LOTR] Certainty of death, small chance of success."
+initial/iwt_674.jpg,stego_iwt/iwt_674.jpg,iwt,[LOTR] You shall be the Fellowship of the Ring.
+initial/iwt_675.jpg,stego_iwt/iwt_675.jpg,iwt,[AV] Underoos!
+initial/iwt_676.jpg,stego_iwt/iwt_676.jpg,iwt,[SR] We’re getting to be regular old friends.
+initial/iwt_677.jpg,stego_iwt/iwt_677.jpg,iwt,[SW] Experience outranks everything.
+initial/iwt_678.jpg,stego_iwt/iwt_678.jpg,iwt,[SW] I hate sand. It’s coarse and rough.
+initial/iwt_679.jpg,stego_iwt/iwt_679.jpg,iwt,[HP] Mischief managed!
+initial/iwt_680.jpg,stego_iwt/iwt_680.jpg,iwt,[AV] I can do this all day.
+initial/iwt_681.jpg,stego_iwt/iwt_681.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_683.jpg,stego_iwt/iwt_683.jpg,iwt,[SW] Confronting fear is a Jedi’s destiny.
+initial/iwt_684.jpg,stego_iwt/iwt_684.jpg,iwt,[LOTR] You need people of intelligence on this mission.
+initial/iwt_685.jpg,stego_iwt/iwt_685.jpg,iwt,[LOTR] My precious.
+initial/iwt_686.jpg,stego_iwt/iwt_686.jpg,iwt,[HP] I solemnly swear I am up to no good.
+initial/iwt_687.jpg,stego_iwt/iwt_687.jpg,iwt,[LOTR] Let this be the hour we draw swords together.
+initial/iwt_688.jpg,stego_iwt/iwt_688.jpg,iwt,[HP] The Chamber of Secrets has been opened.
+initial/iwt_689.jpg,stego_iwt/iwt_689.jpg,iwt,[LOTR] And my axe.
+initial/iwt_690.jpg,stego_iwt/iwt_690.jpg,iwt,"[AV] Dread it, run from it, destiny arrives all the same."
+initial/iwt_691.jpg,stego_iwt/iwt_691.jpg,iwt,[SW] Let the Wookiee win.
+initial/iwt_692.jpg,stego_iwt/iwt_692.jpg,iwt,[SR] Get busy living or get busy dying.
+initial/iwt_693.jpg,stego_iwt/iwt_693.jpg,iwt,[LOTR] You have my sword.
+initial/iwt_694.jpg,stego_iwt/iwt_694.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_695.jpg,stego_iwt/iwt_695.jpg,iwt,[LOTR] A wizard is never late.
+initial/iwt_696.jpg,stego_iwt/iwt_696.jpg,iwt,[SW] Bounty hunting is a complicated profession.
+initial/iwt_697.jpg,stego_iwt/iwt_697.jpg,iwt,[SR] Forty years I been asking permission to pee.
+initial/iwt_698.jpg,stego_iwt/iwt_698.jpg,iwt,"[AV] It’s an oversimplification of events, but yes."
+initial/iwt_699.jpg,stego_iwt/iwt_699.jpg,iwt,[LOTR] I would rather share one lifetime with you.
+initial/iwt_700.jpg,stego_iwt/iwt_700.jpg,iwt,[HP] Wands are only as powerful as the wizards who use them.
+initial/iwt_701.jpg,stego_iwt/iwt_701.jpg,iwt,"[LOTR] Certainty of death, small chance of success."
+initial/iwt_702.jpg,stego_iwt/iwt_702.jpg,iwt,[SR] A man’s got to have something to keep him sane.
+initial/iwt_704.jpg,stego_iwt/iwt_704.jpg,iwt,"[LOTR] If you want him, come and claim him!"
+initial/iwt_705.jpg,stego_iwt/iwt_705.jpg,iwt,[LOTR] There is always hope.
+initial/iwt_706.jpg,stego_iwt/iwt_706.jpg,iwt,[SW] Do or do not. There is no try.
+initial/iwt_707.jpg,stego_iwt/iwt_707.jpg,iwt,[AV] Wakanda forever!
+initial/iwt_708.jpg,stego_iwt/iwt_708.jpg,iwt,[AV] Whatever it takes.
+initial/iwt_709.jpg,stego_iwt/iwt_709.jpg,iwt,"[LOTR] I’d cut off your head, Dwarf, if it stood but a little higher."
+initial/iwt_710.jpg,stego_iwt/iwt_710.jpg,iwt,[SW] No. That’s not true. That’s impossible!
+initial/iwt_711.jpg,stego_iwt/iwt_711.jpg,iwt,[SW] Let the Wookiee win.
+initial/iwt_713.jpg,stego_iwt/iwt_713.jpg,iwt,[SW] The Force will be with you. Always.
+initial/iwt_714.jpg,stego_iwt/iwt_714.jpg,iwt,[LOTR] And my bow.
+initial/iwt_715.jpg,stego_iwt/iwt_715.jpg,iwt,"[AV] If we can’t protect the Earth, we’ll avenge it."
+initial/iwt_716.jpg,stego_iwt/iwt_716.jpg,iwt,"[HP] Yer a wizard, Harry. (Yes, again!)"
+initial/iwt_717.jpg,stego_iwt/iwt_717.jpg,iwt,[SW] I see through the lies of the Jedi.
+initial/iwt_718.jpg,stego_iwt/iwt_718.jpg,iwt,"[LOTR] It’s not natural, none of it."
+initial/iwt_719.jpg,stego_iwt/iwt_719.jpg,iwt,[AV] You’re out of time.
+initial/iwt_720.jpg,stego_iwt/iwt_720.jpg,iwt,[SW] Someday I will be the most powerful Jedi ever.
+initial/iwt_721.jpg,stego_iwt/iwt_721.jpg,iwt,"[HP] Training for the ballet, Potter?"
+initial/iwt_722.jpg,stego_iwt/iwt_722.jpg,iwt,"[AV] That’s my secret, Cap: I’m always angry."
+initial/iwt_723.jpg,stego_iwt/iwt_723.jpg,iwt,"[SR] Brooks was here, so was Red."
+initial/iwt_724.jpg,stego_iwt/iwt_724.jpg,iwt,[SR] How could you be so obtuse?
+initial/iwt_725.jpg,stego_iwt/iwt_725.jpg,iwt,[SW] Never tell me the odds.
+initial/iwt_728.jpg,stego_iwt/iwt_728.jpg,iwt,[SR] You strike me as a particularly icy and remorseless man.
+initial/iwt_730.jpg,stego_iwt/iwt_730.jpg,iwt,[LOTR] The Ring has awoken. It’s heard its master’s call.
+initial/iwt_731.jpg,stego_iwt/iwt_731.jpg,iwt,[HP] Of course it’s happening inside your head.
+initial/iwt_732.jpg,stego_iwt/iwt_732.jpg,iwt,"[SW] Help me, Obi-Wan Kenobi. You're my only hope."
+initial/iwt_733.jpg,stego_iwt/iwt_733.jpg,iwt,[SW] He’s more machine now than man.
+initial/iwt_734.jpg,stego_iwt/iwt_734.jpg,iwt,"[SW] The greatest teacher, failure is."
+initial/iwt_735.jpg,stego_iwt/iwt_735.jpg,iwt,"[HP] I am what I am, and I’m not ashamed."
+initial/iwt_736.jpg,stego_iwt/iwt_736.jpg,iwt,[AV] This is my burden to bear.
+initial/iwt_737.jpg,stego_iwt/iwt_737.jpg,iwt,[AV] I am Iron Man.
+initial/iwt_738.jpg,stego_iwt/iwt_738.jpg,iwt,[SR] I'd like to think the last thing that went through his head.
+initial/iwt_739.jpg,stego_iwt/iwt_739.jpg,iwt,[SR] I'd grow eyes in the back of my head if I were you.
+initial/iwt_742.jpg,stego_iwt/iwt_742.jpg,iwt,[LOTR] Even the smallest person can change the course of the future.
+initial/iwt_744.jpg,stego_iwt/iwt_744.jpg,iwt,[LOTR] That’s what I meant: perilous.
+initial/iwt_745.jpg,stego_iwt/iwt_745.jpg,iwt,"[SR] Andy Dufresne, who crawled through a river of filth."
+initial/iwt_746.jpg,stego_iwt/iwt_746.jpg,iwt,[SR] That’s the one thing they can’t take away.
+initial/iwt_747.jpg,stego_iwt/iwt_747.jpg,iwt,[AV] I can do this all day.
+initial/iwt_748.jpg,stego_iwt/iwt_748.jpg,iwt,[SR] Andy crawled to freedom.
+initial/iwt_749.jpg,stego_iwt/iwt_749.jpg,iwt,[HP] Let us hope that Mr. Potter will always be around.
+initial/iwt_750.jpg,stego_iwt/iwt_750.jpg,iwt,[SW] May the Force be with you.
+initial/iwt_751.jpg,stego_iwt/iwt_751.jpg,iwt,[SW] No. That’s not true. That’s impossible!
+initial/iwt_752.jpg,stego_iwt/iwt_752.jpg,iwt,[LOTR] That is no trinket you carry.
+initial/iwt_754.jpg,stego_iwt/iwt_754.jpg,iwt,[SR] I must admit I didn’t think much of Andy.
+initial/iwt_755.jpg,stego_iwt/iwt_755.jpg,iwt,[HP] It does not do to dwell on dreams.
+initial/iwt_756.jpg,stego_iwt/iwt_756.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_757.jpg,stego_iwt/iwt_757.jpg,iwt,"[SR] Bad luck, I guess. It floats around."
+initial/iwt_758.jpg,stego_iwt/iwt_758.jpg,iwt,"[SR] Brooks was here, so was Red."
+initial/iwt_760.jpg,stego_iwt/iwt_760.jpg,iwt,"[SR] That’s it, step aside, Mert."
+initial/iwt_761.jpg,stego_iwt/iwt_761.jpg,iwt,[SR] Geology is the study of pressure and time.
+initial/iwt_762.jpg,stego_iwt/iwt_762.jpg,iwt,[SW] That’s not how the Force works!
+initial/iwt_763.jpg,stego_iwt/iwt_763.jpg,iwt,"[SR] Brooks was here, so was Red."
+initial/iwt_764.jpg,stego_iwt/iwt_764.jpg,iwt,[AV] I am inevitable.
+initial/iwt_765.jpg,stego_iwt/iwt_765.jpg,iwt,[SW] Let the past die. Kill it if you have to.
+initial/iwt_766.jpg,stego_iwt/iwt_766.jpg,iwt,[SW] No one’s ever really gone.
+initial/iwt_767.jpg,stego_iwt/iwt_767.jpg,iwt,[AV] It’s not a great plan.
+initial/iwt_768.jpg,stego_iwt/iwt_768.jpg,iwt,[SR] That’s the beauty of music.
+initial/iwt_769.jpg,stego_iwt/iwt_769.jpg,iwt,[SR] I guess I just miss my friend.
+initial/iwt_771.jpg,stego_iwt/iwt_771.jpg,iwt,[SR] He strolled like a man in a park.
+initial/iwt_772.jpg,stego_iwt/iwt_772.jpg,iwt,"[AV] It’s an oversimplification of events, but yes."
+initial/iwt_774.jpg,stego_iwt/iwt_774.jpg,iwt,"[AV] Another happy landing. (Wrong franchise, sorry.)"
+initial/iwt_775.jpg,stego_iwt/iwt_775.jpg,iwt,"[SW] Laugh it up, fuzzball!"
+initial/iwt_776.jpg,stego_iwt/iwt_776.jpg,iwt,[AV] Nothing goes over my head.
+initial/iwt_777.jpg,stego_iwt/iwt_777.jpg,iwt,[HP] You’ll soon find out that some wizarding families are better than others.
+initial/iwt_778.jpg,stego_iwt/iwt_778.jpg,iwt,[AV] I love you 3000.
+initial/iwt_779.jpg,stego_iwt/iwt_779.jpg,iwt,"[LOTR] Certainty of death, small chance of success."
+initial/iwt_780.jpg,stego_iwt/iwt_780.jpg,iwt,[LOTR] The fires of Isengard will spread.
+initial/iwt_781.jpg,stego_iwt/iwt_781.jpg,iwt,[SR] You strike me as a particularly icy and remorseless man.
+initial/iwt_782.jpg,stego_iwt/iwt_782.jpg,iwt,[AV] We are in the Endgame now.
+initial/iwt_783.jpg,stego_iwt/iwt_783.jpg,iwt,[SW] I thought they smelled bad on the outside!
+initial/iwt_784.jpg,stego_iwt/iwt_784.jpg,iwt,[AV] I choose to run toward my problems.
+initial/iwt_785.jpg,stego_iwt/iwt_785.jpg,iwt,"[SR] Remember, Red, hope is a good thing."
+initial/iwt_786.jpg,stego_iwt/iwt_786.jpg,iwt,[LOTR] My precious.
+initial/iwt_787.jpg,stego_iwt/iwt_787.jpg,iwt,"[SW] I’m just a simple man, trying to make my way."
+initial/iwt_788.jpg,stego_iwt/iwt_788.jpg,iwt,[LOTR] That day is not this day.
+initial/iwt_789.jpg,stego_iwt/iwt_789.jpg,iwt,"[SW] I’m just a simple man, trying to make my way."
+initial/iwt_791.jpg,stego_iwt/iwt_791.jpg,iwt,"[HP] Words are, in my not-so-humble opinion, our most inexhaustible source of magic."
+initial/iwt_792.jpg,stego_iwt/iwt_792.jpg,iwt,[AV] It’s not about how much we lost.
+initial/iwt_793.jpg,stego_iwt/iwt_793.jpg,iwt,[SW] The Force will be with you. Always.
+initial/iwt_794.jpg,stego_iwt/iwt_794.jpg,iwt,[HP] Time is making fools of us again.
+initial/iwt_795.jpg,stego_iwt/iwt_795.jpg,iwt,"[SR] I killed her, Red."
+initial/iwt_796.jpg,stego_iwt/iwt_796.jpg,iwt,[SR] I had Mr. Mozart to keep me company.
+initial/iwt_797.jpg,stego_iwt/iwt_797.jpg,iwt,[HP] I’ll join you when hell freezes over.
+initial/iwt_798.jpg,stego_iwt/iwt_798.jpg,iwt,[LOTR] My precious.
+initial/iwt_799.jpg,stego_iwt/iwt_799.jpg,iwt,"[HP] I am what I am, and I’m not ashamed."
+initial/iwt_800.jpg,stego_iwt/iwt_800.jpg,iwt,"[SR] Hope is a good thing, maybe the best of things."
+initial/iwt_801.jpg,stego_iwt/iwt_801.jpg,iwt,[HP] Fear of a name only increases fear of the thing itself.
+initial/iwt_802.jpg,stego_iwt/iwt_802.jpg,iwt,"[LOTR] I’d cut off your head, Dwarf, if it stood but a little higher."
+initial/iwt_803.jpg,stego_iwt/iwt_803.jpg,iwt,[SR] Perhaps it's time you tried a new profession.
+initial/iwt_804.jpg,stego_iwt/iwt_804.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_805.jpg,stego_iwt/iwt_805.jpg,iwt,[AV] We’re the guardians of the galaxy.
+initial/iwt_806.jpg,stego_iwt/iwt_806.jpg,iwt,[SW] Do or do not. There is no try.
+initial/iwt_808.jpg,stego_iwt/iwt_808.jpg,iwt,"[SR] The library, pure as a soap opera."
+initial/iwt_809.jpg,stego_iwt/iwt_809.jpg,iwt,[SW] Hello there.
+initial/iwt_810.jpg,stego_iwt/iwt_810.jpg,iwt,"[SW] When 900 years old you reach, look as good you will not."
+initial/iwt_811.jpg,stego_iwt/iwt_811.jpg,iwt,[SW] I am all the Sith!
+initial/iwt_812.jpg,stego_iwt/iwt_812.jpg,iwt,[HP] It takes a great deal of bravery to stand up to our enemies.
+initial/iwt_813.jpg,stego_iwt/iwt_813.jpg,iwt,[SW] Only a Sith deals in absolutes.
+initial/iwt_814.jpg,stego_iwt/iwt_814.jpg,iwt,[SW] Your eyes can deceive you; don’t trust them.
+initial/iwt_816.jpg,stego_iwt/iwt_816.jpg,iwt,[SW] That’s not how the Force works!
+initial/iwt_817.jpg,stego_iwt/iwt_817.jpg,iwt,"[LOTR] It’s not natural, none of it."
+initial/iwt_818.jpg,stego_iwt/iwt_818.jpg,iwt,[SW] No one’s ever really gone.
+initial/iwt_819.jpg,stego_iwt/iwt_819.jpg,iwt,[AV] I’m a huge fan of the way you lose control.
+initial/iwt_820.jpg,stego_iwt/iwt_820.jpg,iwt,[AV] It’s not about how much we lost.
+initial/iwt_821.jpg,stego_iwt/iwt_821.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_822.jpg,stego_iwt/iwt_822.jpg,iwt,[HP] Avada Kedavra’s got a curse on it.
+initial/iwt_823.jpg,stego_iwt/iwt_823.jpg,iwt,"[SW] The greatest teacher, failure is."
+initial/iwt_824.jpg,stego_iwt/iwt_824.jpg,iwt,[SR] Forty years I been asking permission to pee.
+initial/iwt_825.jpg,stego_iwt/iwt_825.jpg,iwt,[SW] Aren’t you a little short for a stormtrooper?
+initial/iwt_826.jpg,stego_iwt/iwt_826.jpg,iwt,[LOTR] I’m going on an adventure!
+initial/iwt_828.jpg,stego_iwt/iwt_828.jpg,iwt,[HP] Greatness inspires envy.
+initial/iwt_829.jpg,stego_iwt/iwt_829.jpg,iwt,[AV] I prefer the weapon you only have to fire once.
+initial/iwt_830.jpg,stego_iwt/iwt_830.jpg,iwt,[HP] Dobby is free.
+initial/iwt_831.jpg,stego_iwt/iwt_831.jpg,iwt,[LOTR] You have my sword.
+initial/iwt_832.jpg,stego_iwt/iwt_832.jpg,iwt,[SW] I can bring you in warm or cold.
+initial/iwt_833.jpg,stego_iwt/iwt_833.jpg,iwt,[LOTR] It’s the deep breath before the plunge.
+initial/iwt_834.jpg,stego_iwt/iwt_834.jpg,iwt,[SW] I am all the Sith!
+initial/iwt_835.jpg,stego_iwt/iwt_835.jpg,iwt,"[HP] It’s LeviOsa, not LevioSA!"
+initial/iwt_836.jpg,stego_iwt/iwt_836.jpg,iwt,[LOTR] I’m going on an adventure!
+initial/iwt_837.jpg,stego_iwt/iwt_837.jpg,iwt,"[HP] Fawkes is a phoenix, Harry."
+initial/iwt_838.jpg,stego_iwt/iwt_838.jpg,iwt,"[HP] I am what I am, and I’m not ashamed."
+initial/iwt_839.jpg,stego_iwt/iwt_839.jpg,iwt,[LOTR] A hunted man sometimes wearies of distrust and longs for friendship.
+initial/iwt_840.jpg,stego_iwt/iwt_840.jpg,iwt,[AV] This is my burden to bear.
+initial/iwt_841.jpg,stego_iwt/iwt_841.jpg,iwt,"[SW] So this is how liberty dies, with thunderous applause."
+initial/iwt_843.jpg,stego_iwt/iwt_843.jpg,iwt,[SW] I have spoken.
+initial/iwt_844.jpg,stego_iwt/iwt_844.jpg,iwt,[SW] I thought they smelled bad on the outside!
+initial/iwt_845.jpg,stego_iwt/iwt_845.jpg,iwt,"[LOTR] There will come a time, but it is not now."
+initial/iwt_846.jpg,stego_iwt/iwt_846.jpg,iwt,[LOTR] The world is changed. I feel it in the water.
+initial/iwt_848.jpg,stego_iwt/iwt_848.jpg,iwt,"[AV] It’s an oversimplification of events, but yes."
+initial/iwt_849.jpg,stego_iwt/iwt_849.jpg,iwt,[LOTR] Ride now! Ride for ruin!
+initial/iwt_850.jpg,stego_iwt/iwt_850.jpg,iwt,[AV] Part of the journey is the end.
+initial/iwt_851.jpg,stego_iwt/iwt_851.jpg,iwt,[SW] Someday I will be the most powerful Jedi ever.
+initial/iwt_852.jpg,stego_iwt/iwt_852.jpg,iwt,"[HP] I am what I am, and I’m not ashamed."
+initial/iwt_853.jpg,stego_iwt/iwt_853.jpg,iwt,[LOTR] This task was appointed to you.
+initial/iwt_854.jpg,stego_iwt/iwt_854.jpg,iwt,[SW] The Force is strong with this one.
+initial/iwt_855.jpg,stego_iwt/iwt_855.jpg,iwt,[AV] It’s not a great plan.
+initial/iwt_856.jpg,stego_iwt/iwt_856.jpg,iwt,[SR] I'd grow eyes in the back of my head if I were you.
+initial/iwt_857.jpg,stego_iwt/iwt_857.jpg,iwt,[SW] I find your lack of faith disturbing.
+initial/iwt_859.jpg,stego_iwt/iwt_859.jpg,iwt,[SR] I guess I just miss my friend.
+initial/iwt_860.jpg,stego_iwt/iwt_860.jpg,iwt,[SW] Your eyes can deceive you; don’t trust them.
+initial/iwt_861.jpg,stego_iwt/iwt_861.jpg,iwt,"[AV] I could do this all day. Yeah, I know."
+initial/iwt_862.jpg,stego_iwt/iwt_862.jpg,iwt,[AV] We work with what we got.
+initial/iwt_863.jpg,stego_iwt/iwt_863.jpg,iwt,[SW] That’s not how the Force works!
+initial/iwt_864.jpg,stego_iwt/iwt_864.jpg,iwt,[AV] Whatever it takes.
+initial/iwt_865.jpg,stego_iwt/iwt_865.jpg,iwt,[LOTR] This is no mere ranger.
+initial/iwt_866.jpg,stego_iwt/iwt_866.jpg,iwt,"[HP] Have a biscuit, Potter."
+initial/iwt_868.jpg,stego_iwt/iwt_868.jpg,iwt,[SR] That’s where I want to live the rest of my life.
+initial/iwt_869.jpg,stego_iwt/iwt_869.jpg,iwt,[AV] We create our own demons.
+initial/iwt_870.jpg,stego_iwt/iwt_870.jpg,iwt,[LOTR] The world is changed. I feel it in the water.
+initial/iwt_872.jpg,stego_iwt/iwt_872.jpg,iwt,[SR] I had Mr. Mozart to keep me company.
+initial/iwt_873.jpg,stego_iwt/iwt_873.jpg,iwt,[SR] How about we get her some rocks?
+initial/iwt_875.jpg,stego_iwt/iwt_875.jpg,iwt,"[LOTR] There will come a time, but it is not now."
+initial/iwt_876.jpg,stego_iwt/iwt_876.jpg,iwt,[LOTR] Even the very wise cannot see all ends.
+initial/iwt_878.jpg,stego_iwt/iwt_878.jpg,iwt,[SW] Never tell me the odds!
+initial/iwt_879.jpg,stego_iwt/iwt_879.jpg,iwt,[SR] We sat and drank with the sun on our shoulders.
+initial/iwt_880.jpg,stego_iwt/iwt_880.jpg,iwt,[SW] These aren’t the droids you’re looking for.
+initial/iwt_882.jpg,stego_iwt/iwt_882.jpg,iwt,[LOTR] One does not simply walk into Mordor.
+initial/iwt_883.jpg,stego_iwt/iwt_883.jpg,iwt,[AV] I prefer the weapon you only have to fire once.
+initial/iwt_884.jpg,stego_iwt/iwt_884.jpg,iwt,[LOTR] Do not trouble yourself with my problems.
+initial/iwt_885.jpg,stego_iwt/iwt_885.jpg,iwt,[AV] He’s a friend from work!
+initial/iwt_886.jpg,stego_iwt/iwt_886.jpg,iwt,"[LOTR] It’s not natural, none of it."
+initial/iwt_887.jpg,stego_iwt/iwt_887.jpg,iwt,"[SR] They send you here for life, and that’s exactly what they take."
+initial/iwt_889.jpg,stego_iwt/iwt_889.jpg,iwt,[LOTR] And Rohan will answer.
+initial/iwt_890.jpg,stego_iwt/iwt_890.jpg,iwt,[LOTR] Release the river!
+initial/iwt_891.jpg,stego_iwt/iwt_891.jpg,iwt,"[SW] Now, young Skywalker, you will die."
+initial/iwt_892.jpg,stego_iwt/iwt_892.jpg,iwt,[SR] Geology is the study of pressure and time.
+initial/iwt_893.jpg,stego_iwt/iwt_893.jpg,iwt,[SW] I am your father.
+initial/iwt_895.jpg,stego_iwt/iwt_895.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_896.jpg,stego_iwt/iwt_896.jpg,iwt,[SR] Some birds aren’t meant to be caged.
+initial/iwt_897.jpg,stego_iwt/iwt_897.jpg,iwt,"[SW] Judge me by my size, do you?"
+initial/iwt_898.jpg,stego_iwt/iwt_898.jpg,iwt,[SR] He strolled like a man in a park.
+initial/iwt_900.jpg,stego_iwt/iwt_900.jpg,iwt,[SW] I see through the lies of the Jedi.
+initial/iwt_901.jpg,stego_iwt/iwt_901.jpg,iwt,[HP] The ones that love us never really leave us.
+initial/iwt_902.jpg,stego_iwt/iwt_902.jpg,iwt,[SR] There’s something inside that they can’t get to.
+initial/iwt_903.jpg,stego_iwt/iwt_903.jpg,iwt,"[LOTR] Certainty of death, small chance of success."
+initial/iwt_904.jpg,stego_iwt/iwt_904.jpg,iwt,"[HP] It matters not what someone is born, but what they grow to be."
+initial/iwt_905.jpg,stego_iwt/iwt_905.jpg,iwt,[SR] I'd hate to deprive you of this.
+initial/iwt_906.jpg,stego_iwt/iwt_906.jpg,iwt,[LOTR] Release the river!
+initial/iwt_907.jpg,stego_iwt/iwt_907.jpg,iwt,[AV] I can do this all day.
+initial/iwt_908.jpg,stego_iwt/iwt_908.jpg,iwt,[SW] That’s not how the Force works!
+initial/iwt_909.jpg,stego_iwt/iwt_909.jpg,iwt,[SR] How about we get her some rocks?
+initial/iwt_910.jpg,stego_iwt/iwt_910.jpg,iwt,[HP] Of course it’s happening inside your head.
+initial/iwt_911.jpg,stego_iwt/iwt_911.jpg,iwt,[SW] There is another Skywalker.
+initial/iwt_913.jpg,stego_iwt/iwt_913.jpg,iwt,[LOTR] Kings made tombs more splendid than houses of the living.
+initial/iwt_914.jpg,stego_iwt/iwt_914.jpg,iwt,[AV] Is this your king?
+initial/iwt_915.jpg,stego_iwt/iwt_915.jpg,iwt,"[HP] It matters not what someone is born, but what they grow to be."
+initial/iwt_916.jpg,stego_iwt/iwt_916.jpg,iwt,[AV] Part of the journey is the end.
+initial/iwt_917.jpg,stego_iwt/iwt_917.jpg,iwt,[LOTR] War will make corpses of us all.
+initial/iwt_918.jpg,stego_iwt/iwt_918.jpg,iwt,"[HP] We could all have been killed, or worse, expelled."
+initial/iwt_919.jpg,stego_iwt/iwt_919.jpg,iwt,[LOTR] I think I broke something.
+initial/iwt_920.jpg,stego_iwt/iwt_920.jpg,iwt,[SW] There's always a bigger fish.
+initial/iwt_921.jpg,stego_iwt/iwt_921.jpg,iwt,[AV] She’s not alone.
+initial/iwt_922.jpg,stego_iwt/iwt_922.jpg,iwt,"[HP] Once again, you’ve put your keen mind to the task."
+initial/iwt_923.jpg,stego_iwt/iwt_923.jpg,iwt,[LOTR] That’s what I meant: perilous.
+initial/iwt_924.jpg,stego_iwt/iwt_924.jpg,iwt,[LOTR] War will make corpses of us all.
+initial/iwt_925.jpg,stego_iwt/iwt_925.jpg,iwt,[SW] I thought they smelled bad on the outside!
+initial/iwt_926.jpg,stego_iwt/iwt_926.jpg,iwt,[LOTR] I will not say do not weep.
+initial/iwt_927.jpg,stego_iwt/iwt_927.jpg,iwt,[LOTR] Your time will come. You will face the same Evil.
+initial/iwt_928.jpg,stego_iwt/iwt_928.jpg,iwt,"[AV] I’m a god, you dull creature!"
+initial/iwt_930.jpg,stego_iwt/iwt_930.jpg,iwt,[HP] This is beyond anything I imagined.
+initial/iwt_931.jpg,stego_iwt/iwt_931.jpg,iwt,[SW] These aren’t the droids you’re looking for.
+initial/iwt_932.jpg,stego_iwt/iwt_932.jpg,iwt,"[HP] Fawkes is a phoenix, Harry."
+initial/iwt_933.jpg,stego_iwt/iwt_933.jpg,iwt,[AV] We have a Hulk.
+initial/iwt_934.jpg,stego_iwt/iwt_934.jpg,iwt,"[AV] I’m a god, you dull creature!"
+initial/iwt_935.jpg,stego_iwt/iwt_935.jpg,iwt,[AV] Language!
+initial/iwt_936.jpg,stego_iwt/iwt_936.jpg,iwt,[SW] I’m altering the deal. Pray I don’t alter it further.
+initial/iwt_938.jpg,stego_iwt/iwt_938.jpg,iwt,[SW] A Jedi uses the Force for knowledge and defense.
+initial/iwt_939.jpg,stego_iwt/iwt_939.jpg,iwt,[SW] Never tell me the odds!
+initial/iwt_940.jpg,stego_iwt/iwt_940.jpg,iwt,[AV] You’re out of time.
+initial/iwt_941.jpg,stego_iwt/iwt_941.jpg,iwt,[AV] I love you 3000.
+initial/iwt_942.jpg,stego_iwt/iwt_942.jpg,iwt,[SR] Geology is the study of pressure and time.
+initial/iwt_943.jpg,stego_iwt/iwt_943.jpg,iwt,"[SW] So this is how liberty dies, with thunderous applause."
+initial/iwt_944.jpg,stego_iwt/iwt_944.jpg,iwt,[HP] I’m going to bed before either of you come up with another idea.
+initial/iwt_945.jpg,stego_iwt/iwt_945.jpg,iwt,"[SW] So this is how liberty dies, with thunderous applause."
+initial/iwt_946.jpg,stego_iwt/iwt_946.jpg,iwt,"[SR] They send you here for life, and that’s exactly what they take."
+initial/iwt_947.jpg,stego_iwt/iwt_947.jpg,iwt,[HP] Always the tone of surprise.
+initial/iwt_948.jpg,stego_iwt/iwt_948.jpg,iwt,[SR] This is a tall drink of water named Andy Dufresne.
+initial/iwt_949.jpg,stego_iwt/iwt_949.jpg,iwt,[SR] That’s the beauty of music.
+initial/iwt_951.jpg,stego_iwt/iwt_951.jpg,iwt,[SW] Let the Wookiee win.
+initial/iwt_952.jpg,stego_iwt/iwt_952.jpg,iwt,[SR] How could you be so obtuse?
+initial/iwt_953.jpg,stego_iwt/iwt_953.jpg,iwt,[SR] That’s the best part of me left in me.
+initial/iwt_954.jpg,stego_iwt/iwt_954.jpg,iwt,[HP] It does not do to dwell on dreams.
+initial/iwt_955.jpg,stego_iwt/iwt_955.jpg,iwt,[LOTR] There is no curse in Elvish for this treachery.
+initial/iwt_956.jpg,stego_iwt/iwt_956.jpg,iwt,[AV] On your left.
+initial/iwt_957.jpg,stego_iwt/iwt_957.jpg,iwt,[SW] Only a Sith deals in absolutes.
+initial/iwt_958.jpg,stego_iwt/iwt_958.jpg,iwt,"[HP] It’s LeviOsa, not LevioSA!"
+initial/iwt_959.jpg,stego_iwt/iwt_959.jpg,iwt,"[LOTR] If you want him, come and claim him!"
+initial/iwt_960.jpg,stego_iwt/iwt_960.jpg,iwt,[LOTR] If more of us valued food and cheer above hoarded gold...
+initial/iwt_961.jpg,stego_iwt/iwt_961.jpg,iwt,[LOTR] Let this be the hour we draw swords together.
+initial/iwt_962.jpg,stego_iwt/iwt_962.jpg,iwt,"[SW] Judge me by my size, do you?"
+initial/iwt_963.jpg,stego_iwt/iwt_963.jpg,iwt,[LOTR] Deeds will not be less valiant because they are unpraised.
+initial/iwt_964.jpg,stego_iwt/iwt_964.jpg,iwt,[SW] That’s not how the Force works!
+initial/iwt_965.jpg,stego_iwt/iwt_965.jpg,iwt,[LOTR] My precious.
+initial/iwt_967.jpg,stego_iwt/iwt_967.jpg,iwt,[HP] Every human life is worth the same.
+initial/iwt_969.jpg,stego_iwt/iwt_969.jpg,iwt,[HP] After all this time? Always.
+initial/iwt_970.jpg,stego_iwt/iwt_970.jpg,iwt,[HP] Hearing voices no one else can hear isn’t a good sign.
+initial/iwt_971.jpg,stego_iwt/iwt_971.jpg,iwt,"[HP] Every time I try to help, people get hurt."
+initial/iwt_972.jpg,stego_iwt/iwt_972.jpg,iwt,[SW] You underestimate my power!
+initial/iwt_973.jpg,stego_iwt/iwt_973.jpg,iwt,[SW] Women always figure out the truth.
+initial/iwt_974.jpg,stego_iwt/iwt_974.jpg,iwt,"[HP] If you’re holding out for universal popularity, you’ll be in this cabin a long time."
+initial/iwt_975.jpg,stego_iwt/iwt_975.jpg,iwt,[LOTR] The shadow does not hold sway yet.
+initial/iwt_976.jpg,stego_iwt/iwt_976.jpg,iwt,[AV] I see a suit of armor around the world.
+initial/iwt_977.jpg,stego_iwt/iwt_977.jpg,iwt,[SW] Someday I will be the most powerful Jedi ever.
+initial/iwt_978.jpg,stego_iwt/iwt_978.jpg,iwt,[LOTR] A wizard is never late.
+initial/iwt_979.jpg,stego_iwt/iwt_979.jpg,iwt,[SW] I find your lack of faith disturbing.
+initial/iwt_980.jpg,stego_iwt/iwt_980.jpg,iwt,[LOTR] Even the smallest person can change the future.
+initial/iwt_981.jpg,stego_iwt/iwt_981.jpg,iwt,[AV] I’m loyal to nothing except the dream.
+initial/iwt_982.jpg,stego_iwt/iwt_982.jpg,iwt,[LOTR] The shadow does not hold sway yet.
+initial/iwt_983.jpg,stego_iwt/iwt_983.jpg,iwt,[AV] If you’re nothing without the suit...
+initial/iwt_984.jpg,stego_iwt/iwt_984.jpg,iwt,[SR] I like to think the last thing that went through his head was to wonder.
+initial/iwt_985.jpg,stego_iwt/iwt_985.jpg,iwt,"[SR] The library, pure as a soap opera."
+initial/iwt_986.jpg,stego_iwt/iwt_986.jpg,iwt,[HP] I solemnly swear I am up to no good.
+initial/iwt_987.jpg,stego_iwt/iwt_987.jpg,iwt,[AV] You could not live with your own failure.
+initial/iwt_988.jpg,stego_iwt/iwt_988.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_989.jpg,stego_iwt/iwt_989.jpg,iwt,[LOTR] Not all those who wander are lost.
+initial/iwt_990.jpg,stego_iwt/iwt_990.jpg,iwt,"[AV] Dormammu, I’ve come to bargain."
+initial/iwt_991.jpg,stego_iwt/iwt_991.jpg,iwt,[HP] Dumbledore said people find it far easier to forgive others.
+initial/iwt_992.jpg,stego_iwt/iwt_992.jpg,iwt,"[AV] I can’t control their fear, only mine."
+initial/iwt_993.jpg,stego_iwt/iwt_993.jpg,iwt,[LOTR] Men of Gondor! Of Rohan! My brothers!
+initial/iwt_994.jpg,stego_iwt/iwt_994.jpg,iwt,"[HP] Training for the ballet, Potter?"
+initial/iwt_995.jpg,stego_iwt/iwt_995.jpg,iwt,[AV] That’s America’s ass.
+initial/iwt_996.jpg,stego_iwt/iwt_996.jpg,iwt,[SW] I love you. I know.
+initial/iwt_997.jpg,stego_iwt/iwt_997.jpg,iwt,[HP] We’ve all got both light and dark inside us.
+initial/iwt_998.jpg,stego_iwt/iwt_998.jpg,iwt,[LOTR] Release the river!
+initial/iwt_999.jpg,stego_iwt/iwt_999.jpg,iwt,[HP] Let us not deprive Molly any longer of the chance to deplore.
+initial/iwt_1000.jpg,stego_iwt/iwt_1000.jpg,iwt,[HP] Numbing the pain for a while will make it worse when you finally feel it.
